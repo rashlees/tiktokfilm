@@ -1,5 +1,5 @@
-# 🎬 BUGÜNÜN VİDEOSU — 10.10.2026
-## Tema: Korku · "Geceleri İzlenmez 5 Korku Filmi"
+# 🎬 BUGÜNÜN VİDEOSU — 11.10.2026
+## Tema: Romantik · "İçini Isıtacak 5 Romantik Film"
 
 ---
 
@@ -7,7 +7,7 @@
 1. `tiktok/afis/` klasöründeki 1-2-3-4-5.jpg afişlerini sırayla ekle (her biri ~3 sn)
 2. Her afişin üstüne aşağıdaki METNİ yaz (kopyala-yapıştır)
 3. Trend bir müzik seç (CapCut → Ses → Trend)
-4. Başlığı en başa 1 sn "kapak" olarak koy: **Geceleri İzlenmez 5 Korku Filmi**
+4. Başlığı en başa 1 sn "kapak" olarak koy: **İçini Isıtacak 5 Romantik Film**
 5. Videoyu indir, TikTok/Reels/Shorts'a yükle
 
 ---
@@ -15,21 +15,21 @@
 ## 🎞️ EKRAN METİNLERİ (afişlerin üstüne)
 
 **KAPAK (ilk kare):**
-Geceleri İzlenmez 5 Korku Filmi 🍿
+İçini Isıtacak 5 Romantik Film 🍿
 
 **Açılış sözü (sesli/yazılı):**
-Tek başına izleme dersem? 👻
+Bu 5 filmden sonra âşık olacaksın 💘
 
-1️⃣ Yolcu (2026) — ⭐ 7.3
-     Genç çift, otoyolda meydana gelen korkunç bir kazaya tanık olduktan sonra, çok geçmeden...
-2️⃣ Sessiz Bir Yer 2 (2021) — ⭐ 7.4
-     Evde yaşanan ölümcül olayların ardından Abbott Ailesi, dış dünyanın dehşetiyle yüzleşme...
-3️⃣ İşkence Odası (2008) — ⭐ 7.3
-     1970’lerin başında, Fransa’dayız.
-4️⃣ Parçalanmış (2017) — ⭐ 7.3
-     Güvenilir psikiyatr Dr.
-5️⃣ Resident Evil (2026) — ⭐ 7.3
-     Uzak bir hastaneye paket götürmekle görevlendirilen talihsiz bir kurye, vardığında kend...
+1️⃣ Hamnet (2025) — ⭐ 7.7
+     1700'lerde geçen bu hikayede William Shakespeare ve eşi Agnes’in, oğulları Hamnet’i veb...
+2️⃣ Güzel ve Çirkin (1991) — ⭐ 7.7
+     Tüm zamanların en mükemmel animasyonlarından biri olan Film, ayaklarınızı yerden kesecek!
+3️⃣ Cennet Sineması (1988) — ⭐ 8.4
+     Artık ünlü bir yönetmen olmuş Salvatore, 30 yıl sonra bir arkadaşının öldüğü haberi üze...
+4️⃣ Arzunun Kanatları (1987) — ⭐ 7.8
+     ‘‘Şimdi pes etmeli miyim?
+5️⃣ Fireproof (2008) — ⭐ 7.7
+     İtfaiyeci Caleb Holt işi söz konusu olduğunda başarılı bir ortak olmasına rağmen, özel ...
 
 **KAPANIŞ (son kare):**
 Hangisini izledin? 👇 Tam liste ve "nerede izlenir" bilgisi → filmarsivi
@@ -37,10 +37,10 @@ Hangisini izledin? 👇 Tam liste ve "nerede izlenir" bilgisi → filmarsivi
 ---
 
 ## ✍️ TIKTOK AÇIKLAMASI (kopyala-yapıştır)
-Geceleri İzlenmez 5 Korku Filmi 🎬 Kaydet, unutma!
-1. Yolcu · 2. Sessiz Bir Yer 2 · 3. İşkence Odası · 4. Parçalanmış · 5. Resident Evil
+İçini Isıtacak 5 Romantik Film 🎬 Kaydet, unutma!
+1. Hamnet · 2. Güzel ve Çirkin · 3. Cennet Sineması · 4. Arzunun Kanatları · 5. Fireproof
 Tam liste ve nerede izleneceği profildeki linkte 🔗
-#film #filmönerisi #dizi #netflix #filmtavsiyesi #izlenmesigerekenfilmler #korku #filmarşivi #sinema #keşfet #fyp #keşfetteyiz
+#film #filmönerisi #dizi #netflix #filmtavsiyesi #izlenmesigerekenfilmler #romantik #filmarşivi #sinema #keşfet #fyp #keşfetteyiz
 
 ---
 
