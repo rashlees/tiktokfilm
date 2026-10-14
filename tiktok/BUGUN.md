@@ -1,5 +1,5 @@
-# 🎬 BUGÜNÜN VİDEOSU — 13.10.2026
-## Tema: Gerilim · "Uykunu Kaçıracak 5 Gerilim Filmi"
+# 🎬 BUGÜNÜN VİDEOSU — 14.10.2026
+## Tema: Bilim Kurgu · "Aklını Uçuracak 5 Bilim Kurgu"
 
 ---
 
@@ -7,7 +7,7 @@
 1. `tiktok/afis/` klasöründeki 1-2-3-4-5.jpg afişlerini sırayla ekle (her biri ~3 sn)
 2. Her afişin üstüne aşağıdaki METNİ yaz (kopyala-yapıştır)
 3. Trend bir müzik seç (CapCut → Ses → Trend)
-4. Başlığı en başa 1 sn "kapak" olarak koy: **Uykunu Kaçıracak 5 Gerilim Filmi**
+4. Başlığı en başa 1 sn "kapak" olarak koy: **Aklını Uçuracak 5 Bilim Kurgu**
 5. Videoyu indir, TikTok/Reels/Shorts'a yükle
 
 ---
@@ -15,21 +15,21 @@
 ## 🎞️ EKRAN METİNLERİ (afişlerin üstüne)
 
 **KAPAK (ilk kare):**
-Uykunu Kaçıracak 5 Gerilim Filmi 🍿
+Aklını Uçuracak 5 Bilim Kurgu 🍿
 
 **Açılış sözü (sesli/yazılı):**
-Sonunu tahmin edemeyeceğin 5 gerilim 😱
+Beynini yakacak 5 bilim kurgu filmi 🤯
 
-1️⃣ Exhuma (2024) — ⭐ 7.7
-     Film, paranormal bir takım olaylarla çevrili olan varlıklı bir ailenin çocuklarını kurt...
-2️⃣ Trendeki Yabancı (1951) — ⭐ 7.7
-     Bir trende karşılaşıp birbirlerinin babası ile karısını öldürmeyi düşünen iki kişinin h...
-3️⃣ Son Darbe (1956) — ⭐ 7.6
-     Johnny Clay, son bir vurgun yaparak emekli olmaya karar veren, eski bir mahkumdur.
-4️⃣ İhtiras Tramvayı (1951) — ⭐ 7.6
-     Tennessee Williams'ın oyunundan uyarlanan ve gösterime girdiğinde yeri yerinden oynatan...
-5️⃣ Şeytanı Gördüm (2010) — ⭐ 7.8
-     Şeytani zekâsıyla dehşet ve esrarengiz cinayetler işleyen, kurbanları arasında çocuklar...
+1️⃣ Örümcek-Adam: Yepyeni Bir Gün (2026) — ⭐ 8.5
+     Artık onu hatırlamayan bir dünyada tam zamanlı olarak Örümcek Adamlık yapmak ve eski ar...
+2️⃣ Her Şey Her Yerde Aynı Anda (2022) — ⭐ 7.7
+     Kocasıyla yıllar önde  Çin’den Amerika’ya göçüp yeni bir hayata başlayan Evelyn, yaşaya...
+3️⃣ E.T. (1982) — ⭐ 7.5
+     Bir grup uzaylı dünyayı ziyaret eder ve aralarından birini bu yabancı gezegende unuturlar.
+4️⃣ Otomatik Portakal (1971) — ⭐ 8.2
+     Alex (Malcolm McDowell), huzur dolu fütürist evinde tüm gün uyuyan ve de geceleri arkad...
+5️⃣ Ex Machina (2015) — ⭐ 7.6
+     Caleb, dünyanın önde gelen internet şirketlerinden birinde çalışan bir yazılımcıdır.
 
 **KAPANIŞ (son kare):**
 Hangisini izledin? 👇 Tam liste ve "nerede izlenir" bilgisi → filmarsivi
@@ -37,10 +37,10 @@ Hangisini izledin? 👇 Tam liste ve "nerede izlenir" bilgisi → filmarsivi
 ---
 
 ## ✍️ TIKTOK AÇIKLAMASI (kopyala-yapıştır)
-Uykunu Kaçıracak 5 Gerilim Filmi 🎬 Kaydet, unutma!
-1. Exhuma · 2. Trendeki Yabancı · 3. Son Darbe · 4. İhtiras Tramvayı · 5. Şeytanı Gördüm
+Aklını Uçuracak 5 Bilim Kurgu 🎬 Kaydet, unutma!
+1. Örümcek-Adam: Yepyeni Bir Gün · 2. Her Şey Her Yerde Aynı Anda · 3. E.T. · 4. Otomatik Portakal · 5. Ex Machina
 Tam liste ve nerede izleneceği profildeki linkte 🔗
-#film #filmönerisi #dizi #netflix #filmtavsiyesi #izlenmesigerekenfilmler #gerilim #filmarşivi #sinema #keşfet #fyp #keşfetteyiz
+#film #filmönerisi #dizi #netflix #filmtavsiyesi #izlenmesigerekenfilmler #bilimkurgu #filmarşivi #sinema #keşfet #fyp #keşfetteyiz
 
 ---
 
