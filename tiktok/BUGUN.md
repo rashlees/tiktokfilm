@@ -1,5 +1,5 @@
-# 🎬 BUGÜNÜN VİDEOSU — 15.10.2026
-## Tema: Komedi · "Kahkaha Garantili 5 Komedi"
+# 🎬 BUGÜNÜN VİDEOSU — 16.10.2026
+## Tema: Dram · "Yüreğine Dokunacak 5 Dram Filmi"
 
 ---
 
@@ -7,7 +7,7 @@
 1. `tiktok/afis/` klasöründeki 1-2-3-4-5.jpg afişlerini sırayla ekle (her biri ~3 sn)
 2. Her afişin üstüne aşağıdaki METNİ yaz (kopyala-yapıştır)
 3. Trend bir müzik seç (CapCut → Ses → Trend)
-4. Başlığı en başa 1 sn "kapak" olarak koy: **Kahkaha Garantili 5 Komedi**
+4. Başlığı en başa 1 sn "kapak" olarak koy: **Yüreğine Dokunacak 5 Dram Filmi**
 5. Videoyu indir, TikTok/Reels/Shorts'a yükle
 
 ---
@@ -15,21 +15,21 @@
 ## 🎞️ EKRAN METİNLERİ (afişlerin üstüne)
 
 **KAPAK (ilk kare):**
-Kahkaha Garantili 5 Komedi 🍿
+Yüreğine Dokunacak 5 Dram Filmi 🍿
 
 **Açılış sözü (sesli/yazılı):**
-Gününü kurtaracak 5 komedi filmi 😂
+Seni benden alacak 5 dram filmi 🥲
 
-1️⃣ Sevimli Canavarlar (2001) — ⭐ 7.9
-     Canavarlar Dünyası isimli kendilerine ait bir dünyada yaşayan ve yaşayabilmek için insa...
-2️⃣ Kaptan Fantastik (2016) — ⭐ 7.9
-     Ben ve Leslie, çocuklarını alışıgeldik medeniyet kalıplarının dışında, konvansiyonel eğ...
-3️⃣ Koro - Mösyö Mathieu'nun Asi Çocukları (2004) — ⭐ 7.7
-     Fond de l’Etang, Fransa’da bir sayfiyede sorunlu erkek çocukları için eğitim veren bir ...
-4️⃣ Zootropolis: Hayvanlar Şehri (2016) — ⭐ 7.8
-     Zootropolis, adındaki modern memelilerin yaşadığı Metropolis başka hiçbir kente benzeme...
-5️⃣ Aya Yolculuk (1973) — ⭐ 7.9
-     Dolandırıcı Moses Pray buhranlı yılların hüküm sürdüğü yıllarda altın dişinin ardına sa...
+1️⃣ Gamsız Hayat (1962) — ⭐ 8.2
+     Bruno, tatlı hayatların temsilcisiyken; Roberto ise genç bir hukuk öğrencisidir.
+2️⃣ Zindan Adası (2010) — ⭐ 8.2
+     Amerikan Marşal'ı Teddy Daniels, (DiCaprio) Shutter Island’daki cani delilerin bulunduğ...
+3️⃣ Leon: Sevginin Gücü (1994) — ⭐ 8.3
+     Mathilda, New York’ta yaşayan ailesi dağılmış 12 yaşında küçük bir kızdır.
+4️⃣ Steven Universe: Film (2019) — ⭐ 8.2
+     “Fikrini Değiştir” özel bölümünden iki yıl sonra, Steven (şimdi 16 yaşında) ve arkadaşl...
+5️⃣ Yeşil Rehber (2018) — ⭐ 8.2
+     1962 yılında geçen, gerçek bir hikâyeden esinlenen film, ırkçılığın Amerika Birleşik De...
 
 **KAPANIŞ (son kare):**
 Hangisini izledin? 👇 Tam liste ve "nerede izlenir" bilgisi → filmarsivi
@@ -37,10 +37,10 @@ Hangisini izledin? 👇 Tam liste ve "nerede izlenir" bilgisi → filmarsivi
 ---
 
 ## ✍️ TIKTOK AÇIKLAMASI (kopyala-yapıştır)
-Kahkaha Garantili 5 Komedi 🎬 Kaydet, unutma!
-1. Sevimli Canavarlar · 2. Kaptan Fantastik · 3. Koro - Mösyö Mathieu'nun Asi Çocukları · 4. Zootropolis: Hayvanlar Şehri · 5. Aya Yolculuk
+Yüreğine Dokunacak 5 Dram Filmi 🎬 Kaydet, unutma!
+1. Gamsız Hayat · 2. Zindan Adası · 3. Leon: Sevginin Gücü · 4. Steven Universe: Film · 5. Yeşil Rehber
 Tam liste ve nerede izleneceği profildeki linkte 🔗
-#film #filmönerisi #dizi #netflix #filmtavsiyesi #izlenmesigerekenfilmler #komedi #filmarşivi #sinema #keşfet #fyp #keşfetteyiz
+#film #filmönerisi #dizi #netflix #filmtavsiyesi #izlenmesigerekenfilmler #dram #filmarşivi #sinema #keşfet #fyp #keşfetteyiz
 
 ---
 
