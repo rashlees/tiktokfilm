@@ -1,5 +1,5 @@
-# 🎬 BUGÜNÜN VİDEOSU — 16.10.2026
-## Tema: Dram · "Yüreğine Dokunacak 5 Dram Filmi"
+# 🎬 BUGÜNÜN VİDEOSU — 17.10.2026
+## Tema: Korku · "Geceleri İzlenmez 5 Korku Filmi"
 
 ---
 
@@ -7,7 +7,7 @@
 1. `tiktok/afis/` klasöründeki 1-2-3-4-5.jpg afişlerini sırayla ekle (her biri ~3 sn)
 2. Her afişin üstüne aşağıdaki METNİ yaz (kopyala-yapıştır)
 3. Trend bir müzik seç (CapCut → Ses → Trend)
-4. Başlığı en başa 1 sn "kapak" olarak koy: **Yüreğine Dokunacak 5 Dram Filmi**
+4. Başlığı en başa 1 sn "kapak" olarak koy: **Geceleri İzlenmez 5 Korku Filmi**
 5. Videoyu indir, TikTok/Reels/Shorts'a yükle
 
 ---
@@ -15,21 +15,21 @@
 ## 🎞️ EKRAN METİNLERİ (afişlerin üstüne)
 
 **KAPAK (ilk kare):**
-Yüreğine Dokunacak 5 Dram Filmi 🍿
+Geceleri İzlenmez 5 Korku Filmi 🍿
 
 **Açılış sözü (sesli/yazılı):**
-Seni benden alacak 5 dram filmi 🥲
+Tek başına izleme dersem? 👻
 
-1️⃣ Gamsız Hayat (1962) — ⭐ 8.2
-     Bruno, tatlı hayatların temsilcisiyken; Roberto ise genç bir hukuk öğrencisidir.
-2️⃣ Zindan Adası (2010) — ⭐ 8.2
-     Amerikan Marşal'ı Teddy Daniels, (DiCaprio) Shutter Island’daki cani delilerin bulunduğ...
-3️⃣ Leon: Sevginin Gücü (1994) — ⭐ 8.3
-     Mathilda, New York’ta yaşayan ailesi dağılmış 12 yaşında küçük bir kızdır.
-4️⃣ Steven Universe: Film (2019) — ⭐ 8.2
-     “Fikrini Değiştir” özel bölümünden iki yıl sonra, Steven (şimdi 16 yaşında) ve arkadaşl...
-5️⃣ Yeşil Rehber (2018) — ⭐ 8.2
-     1962 yılında geçen, gerçek bir hikâyeden esinlenen film, ırkçılığın Amerika Birleşik De...
+1️⃣ Yetimhane (2007) — ⭐ 7.2
+     Yıllar önce deniz kenarındaki bir yetimhanede büyüyen ve yıllar sonra bu yetimhaneyi te...
+2️⃣ Rec: Ölüm Çığlığı (2007) — ⭐ 7.2
+     Gazeteci Angela'nın istediği fırsat ayağına kadar gelmiştir.
+3️⃣ Gonjiam: Haunted Asylum (2018) — ⭐ 7.3
+     Bir internet korku dizisi ekibi, canlı yayın yapmak için terk edilmiş bir akıl hastanes...
+4️⃣ Beden Kemiricilerin İstılası (1978) — ⭐ 7.2
+     San Fransisco'da gökyüzünden yağan sporlar birbirinden güzel çiçekler açmasına sebep olur.
+5️⃣ Drakula (2025) — ⭐ 7.3
+     15.
 
 **KAPANIŞ (son kare):**
 Hangisini izledin? 👇 Tam liste ve "nerede izlenir" bilgisi → filmarsivi
@@ -37,10 +37,10 @@ Hangisini izledin? 👇 Tam liste ve "nerede izlenir" bilgisi → filmarsivi
 ---
 
 ## ✍️ TIKTOK AÇIKLAMASI (kopyala-yapıştır)
-Yüreğine Dokunacak 5 Dram Filmi 🎬 Kaydet, unutma!
-1. Gamsız Hayat · 2. Zindan Adası · 3. Leon: Sevginin Gücü · 4. Steven Universe: Film · 5. Yeşil Rehber
+Geceleri İzlenmez 5 Korku Filmi 🎬 Kaydet, unutma!
+1. Yetimhane · 2. Rec: Ölüm Çığlığı · 3. Gonjiam: Haunted Asylum · 4. Beden Kemiricilerin İstılası · 5. Drakula
 Tam liste ve nerede izleneceği profildeki linkte 🔗
-#film #filmönerisi #dizi #netflix #filmtavsiyesi #izlenmesigerekenfilmler #dram #filmarşivi #sinema #keşfet #fyp #keşfetteyiz
+#film #filmönerisi #dizi #netflix #filmtavsiyesi #izlenmesigerekenfilmler #korku #filmarşivi #sinema #keşfet #fyp #keşfetteyiz
 
 ---
 
