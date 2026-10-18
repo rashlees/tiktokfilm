@@ -1,5 +1,5 @@
-# 🎬 BUGÜNÜN VİDEOSU — 17.10.2026
-## Tema: Korku · "Geceleri İzlenmez 5 Korku Filmi"
+# 🎬 BUGÜNÜN VİDEOSU — 18.10.2026
+## Tema: Romantik · "İçini Isıtacak 5 Romantik Film"
 
 ---
 
@@ -7,7 +7,7 @@
 1. `tiktok/afis/` klasöründeki 1-2-3-4-5.jpg afişlerini sırayla ekle (her biri ~3 sn)
 2. Her afişin üstüne aşağıdaki METNİ yaz (kopyala-yapıştır)
 3. Trend bir müzik seç (CapCut → Ses → Trend)
-4. Başlığı en başa 1 sn "kapak" olarak koy: **Geceleri İzlenmez 5 Korku Filmi**
+4. Başlığı en başa 1 sn "kapak" olarak koy: **İçini Isıtacak 5 Romantik Film**
 5. Videoyu indir, TikTok/Reels/Shorts'a yükle
 
 ---
@@ -15,21 +15,21 @@
 ## 🎞️ EKRAN METİNLERİ (afişlerin üstüne)
 
 **KAPAK (ilk kare):**
-Geceleri İzlenmez 5 Korku Filmi 🍿
+İçini Isıtacak 5 Romantik Film 🍿
 
 **Açılış sözü (sesli/yazılı):**
-Tek başına izleme dersem? 👻
+Bu 5 filmden sonra âşık olacaksın 💘
 
-1️⃣ Yetimhane (2007) — ⭐ 7.2
-     Yıllar önce deniz kenarındaki bir yetimhanede büyüyen ve yıllar sonra bu yetimhaneyi te...
-2️⃣ Rec: Ölüm Çığlığı (2007) — ⭐ 7.2
-     Gazeteci Angela'nın istediği fırsat ayağına kadar gelmiştir.
-3️⃣ Gonjiam: Haunted Asylum (2018) — ⭐ 7.3
-     Bir internet korku dizisi ekibi, canlı yayın yapmak için terk edilmiş bir akıl hastanes...
-4️⃣ Beden Kemiricilerin İstılası (1978) — ⭐ 7.2
-     San Fransisco'da gökyüzünden yağan sporlar birbirinden güzel çiçekler açmasına sebep olur.
-5️⃣ Drakula (2025) — ⭐ 7.3
-     15.
+1️⃣ Aşka İnan (2020) — ⭐ 7.6
+     Üniversitedeki ilk günlerinde tanışan Jeremy ve Melissa kısa süre içinde birbirlerine d...
+2️⃣ Philadelphia Hikayesi (1940) — ⭐ 7.5
+     Büyük bir mirasın sahibi olan Tracy Lord, çapkın kocası C.K.
+3️⃣ Mutlu Beraberlik (1997) — ⭐ 7.6
+     İki eşcinsel Lai Yiu-Fai ve Ho Po-Wing Hong Kong'dan Arjantin'e geliyorlar.
+4️⃣ Başka Bir Hayatta (2023) — ⭐ 7.7
+     Birbirine derinden bağlı iki çocukluk arkadaşı olan Nora ve Hae-sung, Nora'nın ailesi G...
+5️⃣ Bugün Eve Yalnız Dönmek İstiyorum (2014) — ⭐ 7.9
+     Görme engelli Leonardo, sınıflarına yeni gelen Gabriel ile çabucak kaynaşır.
 
 **KAPANIŞ (son kare):**
 Hangisini izledin? 👇 Tam liste ve "nerede izlenir" bilgisi → filmarsivi
@@ -37,10 +37,10 @@ Hangisini izledin? 👇 Tam liste ve "nerede izlenir" bilgisi → filmarsivi
 ---
 
 ## ✍️ TIKTOK AÇIKLAMASI (kopyala-yapıştır)
-Geceleri İzlenmez 5 Korku Filmi 🎬 Kaydet, unutma!
-1. Yetimhane · 2. Rec: Ölüm Çığlığı · 3. Gonjiam: Haunted Asylum · 4. Beden Kemiricilerin İstılası · 5. Drakula
+İçini Isıtacak 5 Romantik Film 🎬 Kaydet, unutma!
+1. Aşka İnan · 2. Philadelphia Hikayesi · 3. Mutlu Beraberlik · 4. Başka Bir Hayatta · 5. Bugün Eve Yalnız Dönmek İstiyorum
 Tam liste ve nerede izleneceği profildeki linkte 🔗
-#film #filmönerisi #dizi #netflix #filmtavsiyesi #izlenmesigerekenfilmler #korku #filmarşivi #sinema #keşfet #fyp #keşfetteyiz
+#film #filmönerisi #dizi #netflix #filmtavsiyesi #izlenmesigerekenfilmler #romantik #filmarşivi #sinema #keşfet #fyp #keşfetteyiz
 
 ---
 
