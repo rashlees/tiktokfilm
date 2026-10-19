@@ -1,5 +1,5 @@
-# 🎬 BUGÜNÜN VİDEOSU — 18.10.2026
-## Tema: Romantik · "İçini Isıtacak 5 Romantik Film"
+# 🎬 BUGÜNÜN VİDEOSU — 19.10.2026
+## Tema: Aksiyon · "Nefes Kesen 5 Aksiyon Filmi"
 
 ---
 
@@ -7,7 +7,7 @@
 1. `tiktok/afis/` klasöründeki 1-2-3-4-5.jpg afişlerini sırayla ekle (her biri ~3 sn)
 2. Her afişin üstüne aşağıdaki METNİ yaz (kopyala-yapıştır)
 3. Trend bir müzik seç (CapCut → Ses → Trend)
-4. Başlığı en başa 1 sn "kapak" olarak koy: **İçini Isıtacak 5 Romantik Film**
+4. Başlığı en başa 1 sn "kapak" olarak koy: **Nefes Kesen 5 Aksiyon Filmi**
 5. Videoyu indir, TikTok/Reels/Shorts'a yükle
 
 ---
@@ -15,21 +15,21 @@
 ## 🎞️ EKRAN METİNLERİ (afişlerin üstüne)
 
 **KAPAK (ilk kare):**
-İçini Isıtacak 5 Romantik Film 🍿
+Nefes Kesen 5 Aksiyon Filmi 🍿
 
 **Açılış sözü (sesli/yazılı):**
-Bu 5 filmden sonra âşık olacaksın 💘
+Adrenalin arıyorsan bu 5 film tam sana göre 👊
 
-1️⃣ Aşka İnan (2020) — ⭐ 7.6
-     Üniversitedeki ilk günlerinde tanışan Jeremy ve Melissa kısa süre içinde birbirlerine d...
-2️⃣ Philadelphia Hikayesi (1940) — ⭐ 7.5
-     Büyük bir mirasın sahibi olan Tracy Lord, çapkın kocası C.K.
-3️⃣ Mutlu Beraberlik (1997) — ⭐ 7.6
-     İki eşcinsel Lai Yiu-Fai ve Ho Po-Wing Hong Kong'dan Arjantin'e geliyorlar.
-4️⃣ Başka Bir Hayatta (2023) — ⭐ 7.7
-     Birbirine derinden bağlı iki çocukluk arkadaşı olan Nora ve Hae-sung, Nora'nın ailesi G...
-5️⃣ Bugün Eve Yalnız Dönmek İstiyorum (2014) — ⭐ 7.9
-     Görme engelli Leonardo, sınıflarına yeni gelen Gabriel ile çabucak kaynaşır.
+1️⃣ Gran Turismo (2023) — ⭐ 7.7
+     Bir video oyuncusu, eski bir yarış pilotu ve idealist bir motor sporları yöneticisinden...
+2️⃣ Kim Demiş Kötüyüz Diye? 2 (2025) — ⭐ 7.6
+     Suçlu hayvanlar çetesi üyeleri için çılgın günler artık geride kalmıştır.
+3️⃣ RRR (2022) — ⭐ 7.7
+     Rama, sömürge hükümetinin hizmetinde, kalabalıkla tek başına başa çıkabilen özel bir po...
+4️⃣ Ejder Topu Z: Bardock - goku ' nun Babası (1990) — ⭐ 7.6
+     Son Goku'nun babası Bardock, az önce gördüğü bir gezegendeki son kalan yabancı tarafınd...
+5️⃣ El Chapo ile Yüz Yüze (2026) — ⭐ 8.8
+     Vardiyasının son saatlerindeki iki Meksikalı polis memurunun, rutin bir trafik kontrolü...
 
 **KAPANIŞ (son kare):**
 Hangisini izledin? 👇 Tam liste ve "nerede izlenir" bilgisi → filmarsivi
@@ -37,10 +37,10 @@ Hangisini izledin? 👇 Tam liste ve "nerede izlenir" bilgisi → filmarsivi
 ---
 
 ## ✍️ TIKTOK AÇIKLAMASI (kopyala-yapıştır)
-İçini Isıtacak 5 Romantik Film 🎬 Kaydet, unutma!
-1. Aşka İnan · 2. Philadelphia Hikayesi · 3. Mutlu Beraberlik · 4. Başka Bir Hayatta · 5. Bugün Eve Yalnız Dönmek İstiyorum
+Nefes Kesen 5 Aksiyon Filmi 🎬 Kaydet, unutma!
+1. Gran Turismo · 2. Kim Demiş Kötüyüz Diye? 2 · 3. RRR · 4. Ejder Topu Z: Bardock - goku ' nun Babası · 5. El Chapo ile Yüz Yüze
 Tam liste ve nerede izleneceği profildeki linkte 🔗
-#film #filmönerisi #dizi #netflix #filmtavsiyesi #izlenmesigerekenfilmler #romantik #filmarşivi #sinema #keşfet #fyp #keşfetteyiz
+#film #filmönerisi #dizi #netflix #filmtavsiyesi #izlenmesigerekenfilmler #aksiyon #filmarşivi #sinema #keşfet #fyp #keşfetteyiz
 
 ---
 
