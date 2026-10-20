@@ -1,5 +1,5 @@
-# 🎬 BUGÜNÜN VİDEOSU — 19.10.2026
-## Tema: Aksiyon · "Nefes Kesen 5 Aksiyon Filmi"
+# 🎬 BUGÜNÜN VİDEOSU — 20.10.2026
+## Tema: Gerilim · "Uykunu Kaçıracak 5 Gerilim Filmi"
 
 ---
 
@@ -7,7 +7,7 @@
 1. `tiktok/afis/` klasöründeki 1-2-3-4-5.jpg afişlerini sırayla ekle (her biri ~3 sn)
 2. Her afişin üstüne aşağıdaki METNİ yaz (kopyala-yapıştır)
 3. Trend bir müzik seç (CapCut → Ses → Trend)
-4. Başlığı en başa 1 sn "kapak" olarak koy: **Nefes Kesen 5 Aksiyon Filmi**
+4. Başlığı en başa 1 sn "kapak" olarak koy: **Uykunu Kaçıracak 5 Gerilim Filmi**
 5. Videoyu indir, TikTok/Reels/Shorts'a yükle
 
 ---
@@ -15,21 +15,21 @@
 ## 🎞️ EKRAN METİNLERİ (afişlerin üstüne)
 
 **KAPAK (ilk kare):**
-Nefes Kesen 5 Aksiyon Filmi 🍿
+Uykunu Kaçıracak 5 Gerilim Filmi 🍿
 
 **Açılış sözü (sesli/yazılı):**
-Adrenalin arıyorsan bu 5 film tam sana göre 👊
+Sonunu tahmin edemeyeceğin 5 gerilim 😱
 
-1️⃣ Gran Turismo (2023) — ⭐ 7.7
-     Bir video oyuncusu, eski bir yarış pilotu ve idealist bir motor sporları yöneticisinden...
-2️⃣ Kim Demiş Kötüyüz Diye? 2 (2025) — ⭐ 7.6
-     Suçlu hayvanlar çetesi üyeleri için çılgın günler artık geride kalmıştır.
-3️⃣ RRR (2022) — ⭐ 7.7
-     Rama, sömürge hükümetinin hizmetinde, kalabalıkla tek başına başa çıkabilen özel bir po...
-4️⃣ Ejder Topu Z: Bardock - goku ' nun Babası (1990) — ⭐ 7.6
-     Son Goku'nun babası Bardock, az önce gördüğü bir gezegendeki son kalan yabancı tarafınd...
-5️⃣ El Chapo ile Yüz Yüze (2026) — ⭐ 8.8
-     Vardiyasının son saatlerindeki iki Meksikalı polis memurunun, rutin bir trafik kontrolü...
+1️⃣ Sapık (1960) — ⭐ 8.4
+     Marion Crane’e patronuyla iş yapan zengin bir adam 40 bin dolar emanet eder ve Marion p...
+2️⃣ Başkanın Bütün Adamları (1976) — ⭐ 7.7
+     Başkan Nixon, Amerikan tarihinde istifaya zorlanmış ilk ve -şimdilik- tek başkandır.
+3️⃣ Arka Pencere (1954) — ⭐ 8.3
+     Fotoğrafçı L.
+4️⃣ Cinayet Var (1954) — ⭐ 8.0
+     Alfred Hitchcock, Frederick Knott'un beğenilen oyunu Dial M for Murder'ı Grace Kelly, R...
+5️⃣ Gözlerindeki Sır (2009) — ⭐ 8.0
+     Görevinden yeni emekli olan sorgu müfettişi Benjamin, bir türlü peşini bırakmayan ve ma...
 
 **KAPANIŞ (son kare):**
 Hangisini izledin? 👇 Tam liste ve "nerede izlenir" bilgisi → filmarsivi
@@ -37,10 +37,10 @@ Hangisini izledin? 👇 Tam liste ve "nerede izlenir" bilgisi → filmarsivi
 ---
 
 ## ✍️ TIKTOK AÇIKLAMASI (kopyala-yapıştır)
-Nefes Kesen 5 Aksiyon Filmi 🎬 Kaydet, unutma!
-1. Gran Turismo · 2. Kim Demiş Kötüyüz Diye? 2 · 3. RRR · 4. Ejder Topu Z: Bardock - goku ' nun Babası · 5. El Chapo ile Yüz Yüze
+Uykunu Kaçıracak 5 Gerilim Filmi 🎬 Kaydet, unutma!
+1. Sapık · 2. Başkanın Bütün Adamları · 3. Arka Pencere · 4. Cinayet Var · 5. Gözlerindeki Sır
 Tam liste ve nerede izleneceği profildeki linkte 🔗
-#film #filmönerisi #dizi #netflix #filmtavsiyesi #izlenmesigerekenfilmler #aksiyon #filmarşivi #sinema #keşfet #fyp #keşfetteyiz
+#film #filmönerisi #dizi #netflix #filmtavsiyesi #izlenmesigerekenfilmler #gerilim #filmarşivi #sinema #keşfet #fyp #keşfetteyiz
 
 ---
 
