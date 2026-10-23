@@ -1,5 +1,5 @@
-# 🎬 BUGÜNÜN VİDEOSU — 22.10.2026
-## Tema: Komedi · "Kahkaha Garantili 5 Komedi"
+# 🎬 BUGÜNÜN VİDEOSU — 23.10.2026
+## Tema: Dram · "Yüreğine Dokunacak 5 Dram Filmi"
 
 ---
 
@@ -7,7 +7,7 @@
 1. `tiktok/afis/` klasöründeki 1-2-3-4-5.jpg afişlerini sırayla ekle (her biri ~3 sn)
 2. Her afişin üstüne aşağıdaki METNİ yaz (kopyala-yapıştır)
 3. Trend bir müzik seç (CapCut → Ses → Trend)
-4. Başlığı en başa 1 sn "kapak" olarak koy: **Kahkaha Garantili 5 Komedi**
+4. Başlığı en başa 1 sn "kapak" olarak koy: **Yüreğine Dokunacak 5 Dram Filmi**
 5. Videoyu indir, TikTok/Reels/Shorts'a yükle
 
 ---
@@ -15,21 +15,21 @@
 ## 🎞️ EKRAN METİNLERİ (afişlerin üstüne)
 
 **KAPAK (ilk kare):**
-Kahkaha Garantili 5 Komedi 🍿
+Yüreğine Dokunacak 5 Dram Filmi 🍿
 
 **Açılış sözü (sesli/yazılı):**
-Gününü kurtaracak 5 komedi filmi 😂
+Seni benden alacak 5 dram filmi 🥲
 
-1️⃣ Hatırlıyorum (1973) — ⭐ 7.9
-     Büyük beğeni kazanan bir yarı otobiyografi olan Amarcord, 1930larda Mussolini hakimiyet...
-2️⃣ Mary ve Max (2009) — ⭐ 7.9
-     Avusturalyalı 8 yaşındaki küçük Mary, alkolik bir anne ile ilgisiz bir babanın meraklı ...
-3️⃣ Presto (2008) — ⭐ 7.8
-     Meşhur bir illüzyonistin şapkadan tavşan çıkarma numarası yapması gerekmektedir, gelin ...
-4️⃣ Bir Koyun Polisiyesi (2026) — ⭐ 7.9
-     George Hardy, her gece çok sevdiği koyunlarına anlayamayacaklarını düşünmesine rağmen d...
-5️⃣ Ziyafet (2014) — ⭐ 7.8
-     Bir adamın aşk hayatının hikayesi, en iyi arkadaşı ve köpeği Winston'ın gözünden görülü...
+1️⃣ Full Metal Jacket (1987) — ⭐ 8.1
+     Yönetmen Stanley Kubrick, Full Metal Jacket filminde savaşın ve askerliğin, insanların ...
+2️⃣ Gabriel'in Cehennemi (2020) — ⭐ 8.4
+     Baştan çıkarma, yasak aşk ve kurtuluşun ilgi çekici ve günahkâr bir keşfi olan Gabriel'...
+3️⃣ Bulutlar (2020) — ⭐ 8.2
+     Bir gencin hayatı, kendisine nadir görülen bir kemik kanseri teşhisi konulması ile alt ...
+4️⃣ Yaşamak (1952) — ⭐ 8.3
+     30 yılını bir masanın başında mühür basarak ve hiçbir iş yapmayarak geçirmiş olan Bay W...
+5️⃣ Kurt Çocuklar Ame ve Yuki (2012) — ⭐ 8.2
+     Kurt adam sevgilisinin beklenmedik bir kazada hayatını kaybetmesinin ardından, kadın on...
 
 **KAPANIŞ (son kare):**
 Hangisini izledin? 👇 Tam liste ve "nerede izlenir" bilgisi → filmarsivi
@@ -37,10 +37,10 @@ Hangisini izledin? 👇 Tam liste ve "nerede izlenir" bilgisi → filmarsivi
 ---
 
 ## ✍️ TIKTOK AÇIKLAMASI (kopyala-yapıştır)
-Kahkaha Garantili 5 Komedi 🎬 Kaydet, unutma!
-1. Hatırlıyorum · 2. Mary ve Max · 3. Presto · 4. Bir Koyun Polisiyesi · 5. Ziyafet
+Yüreğine Dokunacak 5 Dram Filmi 🎬 Kaydet, unutma!
+1. Full Metal Jacket · 2. Gabriel'in Cehennemi · 3. Bulutlar · 4. Yaşamak · 5. Kurt Çocuklar Ame ve Yuki
 Tam liste ve nerede izleneceği profildeki linkte 🔗
-#film #filmönerisi #dizi #netflix #filmtavsiyesi #izlenmesigerekenfilmler #komedi #filmarşivi #sinema #keşfet #fyp #keşfetteyiz
+#film #filmönerisi #dizi #netflix #filmtavsiyesi #izlenmesigerekenfilmler #dram #filmarşivi #sinema #keşfet #fyp #keşfetteyiz
 
 ---
 
