@@ -1,5 +1,5 @@
-# 🎬 BUGÜNÜN VİDEOSU — 23.10.2026
-## Tema: Dram · "Yüreğine Dokunacak 5 Dram Filmi"
+# 🎬 BUGÜNÜN VİDEOSU — 24.10.2026
+## Tema: Korku · "Geceleri İzlenmez 5 Korku Filmi"
 
 ---
 
@@ -7,7 +7,7 @@
 1. `tiktok/afis/` klasöründeki 1-2-3-4-5.jpg afişlerini sırayla ekle (her biri ~3 sn)
 2. Her afişin üstüne aşağıdaki METNİ yaz (kopyala-yapıştır)
 3. Trend bir müzik seç (CapCut → Ses → Trend)
-4. Başlığı en başa 1 sn "kapak" olarak koy: **Yüreğine Dokunacak 5 Dram Filmi**
+4. Başlığı en başa 1 sn "kapak" olarak koy: **Geceleri İzlenmez 5 Korku Filmi**
 5. Videoyu indir, TikTok/Reels/Shorts'a yükle
 
 ---
@@ -15,21 +15,21 @@
 ## 🎞️ EKRAN METİNLERİ (afişlerin üstüne)
 
 **KAPAK (ilk kare):**
-Yüreğine Dokunacak 5 Dram Filmi 🍿
+Geceleri İzlenmez 5 Korku Filmi 🍿
 
 **Açılış sözü (sesli/yazılı):**
-Seni benden alacak 5 dram filmi 🥲
+Tek başına izleme dersem? 👻
 
-1️⃣ Full Metal Jacket (1987) — ⭐ 8.1
-     Yönetmen Stanley Kubrick, Full Metal Jacket filminde savaşın ve askerliğin, insanların ...
-2️⃣ Gabriel'in Cehennemi (2020) — ⭐ 8.4
-     Baştan çıkarma, yasak aşk ve kurtuluşun ilgi çekici ve günahkâr bir keşfi olan Gabriel'...
-3️⃣ Bulutlar (2020) — ⭐ 8.2
-     Bir gencin hayatı, kendisine nadir görülen bir kemik kanseri teşhisi konulması ile alt ...
-4️⃣ Yaşamak (1952) — ⭐ 8.3
-     30 yılını bir masanın başında mühür basarak ve hiçbir iş yapmayarak geçirmiş olan Bay W...
-5️⃣ Kurt Çocuklar Ame ve Yuki (2012) — ⭐ 8.2
-     Kurt adam sevgilisinin beklenmedik bir kazada hayatını kaybetmesinin ardından, kadın on...
+1️⃣ Kötü Ruh: Cehennem Ateşi (2026) — ⭐ 7.6
+     Kocasını kaybetmesinin ardından teselli arayan genç bir kadın, eşinin ailesiyle birlikt...
+2️⃣ Cadılar Bayramı (1978) — ⭐ 7.6
+     Korku sinemasının ustalarından John Carpenter'ı üne kavuşturan filmi "Cadılar Bayramı",...
+3️⃣ Siyah Kuğu (2010) — ⭐ 7.7
+     Genç bir kadın olan Nina, yetenekli bir balerindir.
+4️⃣ Şeytan Çıkmazı (1987) — ⭐ 7.1
+     Louis Cypher adlı gizemli bir müşteri, özel dedektif Harry Angel'dan bir adamı bulmasın...
+5️⃣ Brimstone (2016) — ⭐ 7.1
+     19.
 
 **KAPANIŞ (son kare):**
 Hangisini izledin? 👇 Tam liste ve "nerede izlenir" bilgisi → filmarsivi
@@ -37,10 +37,10 @@ Hangisini izledin? 👇 Tam liste ve "nerede izlenir" bilgisi → filmarsivi
 ---
 
 ## ✍️ TIKTOK AÇIKLAMASI (kopyala-yapıştır)
-Yüreğine Dokunacak 5 Dram Filmi 🎬 Kaydet, unutma!
-1. Full Metal Jacket · 2. Gabriel'in Cehennemi · 3. Bulutlar · 4. Yaşamak · 5. Kurt Çocuklar Ame ve Yuki
+Geceleri İzlenmez 5 Korku Filmi 🎬 Kaydet, unutma!
+1. Kötü Ruh: Cehennem Ateşi · 2. Cadılar Bayramı · 3. Siyah Kuğu · 4. Şeytan Çıkmazı · 5. Brimstone
 Tam liste ve nerede izleneceği profildeki linkte 🔗
-#film #filmönerisi #dizi #netflix #filmtavsiyesi #izlenmesigerekenfilmler #dram #filmarşivi #sinema #keşfet #fyp #keşfetteyiz
+#film #filmönerisi #dizi #netflix #filmtavsiyesi #izlenmesigerekenfilmler #korku #filmarşivi #sinema #keşfet #fyp #keşfetteyiz
 
 ---
 
