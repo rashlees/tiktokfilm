@@ -1,5 +1,5 @@
-# 🎬 BUGÜNÜN VİDEOSU — 24.10.2026
-## Tema: Korku · "Geceleri İzlenmez 5 Korku Filmi"
+# 🎬 BUGÜNÜN VİDEOSU — 25.10.2026
+## Tema: Romantik · "İçini Isıtacak 5 Romantik Film"
 
 ---
 
@@ -7,7 +7,7 @@
 1. `tiktok/afis/` klasöründeki 1-2-3-4-5.jpg afişlerini sırayla ekle (her biri ~3 sn)
 2. Her afişin üstüne aşağıdaki METNİ yaz (kopyala-yapıştır)
 3. Trend bir müzik seç (CapCut → Ses → Trend)
-4. Başlığı en başa 1 sn "kapak" olarak koy: **Geceleri İzlenmez 5 Korku Filmi**
+4. Başlığı en başa 1 sn "kapak" olarak koy: **İçini Isıtacak 5 Romantik Film**
 5. Videoyu indir, TikTok/Reels/Shorts'a yükle
 
 ---
@@ -15,21 +15,21 @@
 ## 🎞️ EKRAN METİNLERİ (afişlerin üstüne)
 
 **KAPAK (ilk kare):**
-Geceleri İzlenmez 5 Korku Filmi 🍿
+İçini Isıtacak 5 Romantik Film 🍿
 
 **Açılış sözü (sesli/yazılı):**
-Tek başına izleme dersem? 👻
+Bu 5 filmden sonra âşık olacaksın 💘
 
-1️⃣ Kötü Ruh: Cehennem Ateşi (2026) — ⭐ 7.6
-     Kocasını kaybetmesinin ardından teselli arayan genç bir kadın, eşinin ailesiyle birlikt...
-2️⃣ Cadılar Bayramı (1978) — ⭐ 7.6
-     Korku sinemasının ustalarından John Carpenter'ı üne kavuşturan filmi "Cadılar Bayramı",...
-3️⃣ Siyah Kuğu (2010) — ⭐ 7.7
-     Genç bir kadın olan Nina, yetenekli bir balerindir.
-4️⃣ Şeytan Çıkmazı (1987) — ⭐ 7.1
-     Louis Cypher adlı gizemli bir müşteri, özel dedektif Harry Angel'dan bir adamı bulmasın...
-5️⃣ Brimstone (2016) — ⭐ 7.1
-     19.
+1️⃣ Zamanda Aşk (2013) — ⭐ 7.9
+     21 yaşına basan Tim Lake, ailesindeki tüm erkeklerin sahip olduğu gizli bir yeteneğinin...
+2️⃣ A Whisker Away (2020) — ⭐ 7.9
+     Tuhaf bir kız, hoşlandığı çocuğun ilgisini çekmek için kediye dönüşür.
+3️⃣ Delidolu 2 (2020) — ⭐ 7.6
+     Üniversite için karar zamanı yaklaşırken Elle; Noah'yla yaşadığı uzun mesafeli ilişki, ...
+4️⃣ Harold ve Maude (1971) — ⭐ 7.6
+     Klasik bir kült olan bu filmde alışılmadık bir çifti izliyoruz.
+5️⃣ Senden Nefret Etmemin 10 Sebebi (1999) — ⭐ 7.6
+     Bianca ve Kat iki kızkardeştir.
 
 **KAPANIŞ (son kare):**
 Hangisini izledin? 👇 Tam liste ve "nerede izlenir" bilgisi → filmarsivi
@@ -37,10 +37,10 @@ Hangisini izledin? 👇 Tam liste ve "nerede izlenir" bilgisi → filmarsivi
 ---
 
 ## ✍️ TIKTOK AÇIKLAMASI (kopyala-yapıştır)
-Geceleri İzlenmez 5 Korku Filmi 🎬 Kaydet, unutma!
-1. Kötü Ruh: Cehennem Ateşi · 2. Cadılar Bayramı · 3. Siyah Kuğu · 4. Şeytan Çıkmazı · 5. Brimstone
+İçini Isıtacak 5 Romantik Film 🎬 Kaydet, unutma!
+1. Zamanda Aşk · 2. A Whisker Away · 3. Delidolu 2 · 4. Harold ve Maude · 5. Senden Nefret Etmemin 10 Sebebi
 Tam liste ve nerede izleneceği profildeki linkte 🔗
-#film #filmönerisi #dizi #netflix #filmtavsiyesi #izlenmesigerekenfilmler #korku #filmarşivi #sinema #keşfet #fyp #keşfetteyiz
+#film #filmönerisi #dizi #netflix #filmtavsiyesi #izlenmesigerekenfilmler #romantik #filmarşivi #sinema #keşfet #fyp #keşfetteyiz
 
 ---
 
