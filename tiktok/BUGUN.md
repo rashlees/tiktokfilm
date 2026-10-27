@@ -1,5 +1,5 @@
-# 🎬 BUGÜNÜN VİDEOSU — 26.10.2026
-## Tema: Aksiyon · "Nefes Kesen 5 Aksiyon Filmi"
+# 🎬 BUGÜNÜN VİDEOSU — 27.10.2026
+## Tema: Gerilim · "Uykunu Kaçıracak 5 Gerilim Filmi"
 
 ---
 
@@ -7,7 +7,7 @@
 1. `tiktok/afis/` klasöründeki 1-2-3-4-5.jpg afişlerini sırayla ekle (her biri ~3 sn)
 2. Her afişin üstüne aşağıdaki METNİ yaz (kopyala-yapıştır)
 3. Trend bir müzik seç (CapCut → Ses → Trend)
-4. Başlığı en başa 1 sn "kapak" olarak koy: **Nefes Kesen 5 Aksiyon Filmi**
+4. Başlığı en başa 1 sn "kapak" olarak koy: **Uykunu Kaçıracak 5 Gerilim Filmi**
 5. Videoyu indir, TikTok/Reels/Shorts'a yükle
 
 ---
@@ -15,21 +15,21 @@
 ## 🎞️ EKRAN METİNLERİ (afişlerin üstüne)
 
 **KAPAK (ilk kare):**
-Nefes Kesen 5 Aksiyon Filmi 🍿
+Uykunu Kaçıracak 5 Gerilim Filmi 🍿
 
 **Açılış sözü (sesli/yazılı):**
-Adrenalin arıyorsan bu 5 film tam sana göre 👊
+Sonunu tahmin edemeyeceğin 5 gerilim 😱
 
-1️⃣ Dogman (2023) — ⭐ 7.8
-     Babası tarafından şiddet gören Douglas evden kovularak köpeklere yem olarak atılır.
-2️⃣ İnanılmaz Aile (2004) — ⭐ 7.7
-     Animasyon kahramanı Mr Incredible adı altında dünyada var olan kötülüklerle mücadele ed...
-3️⃣ Ip Man (2008) — ⭐ 7.8
-     Wing Chun kung fu ustası Ip Man'ın hayatını konu alan bir dövüş sanatları filmidir.
-4️⃣ Örümcek Adam: Örümcek Evreninde (2018) — ⭐ 8.4
-     Brooklyn'de yaşayan Miles Morales isimli siyahi bir gencin hikayesini izleyeceğimiz fil...
-5️⃣ Nimona (2023) — ⭐ 7.8
-     Üstüne trajik bir suç atılan şövalye, şekil değiştiren mücadeleci bir genç kızla el ele...
+1️⃣ Kirli İşler (2002) — ⭐ 7.8
+     Mafyanın polisin içine, polisin de mafyanın içine yerleştirmiş olduğu köstebekler, yıll...
+2️⃣ Amansız (2026) — ⭐ 8.2
+     Eski bir özel kuvvet askeri, kayıp kızını kurtarmak için kuzey Myanmar'a sızar ve dolan...
+3️⃣ Dövüş Kulübü (1999) — ⭐ 8.4
+     Saatli bomba gibi patlamaya hazır, uykusuzluk çeken bir adam ile tekinsiz bir sabun sat...
+4️⃣ Ölüm Kitabı (1990) — ⭐ 7.8
+     Paul Sheldon kolay okunan popüler romanlar yazarıdır.
+5️⃣ Dokuz Kraliçe (2000) — ⭐ 7.8
+     Hayatta hiçbir şey ilk bakışta zannedildiği gibi değildir.
 
 **KAPANIŞ (son kare):**
 Hangisini izledin? 👇 Tam liste ve "nerede izlenir" bilgisi → filmarsivi
@@ -37,10 +37,10 @@ Hangisini izledin? 👇 Tam liste ve "nerede izlenir" bilgisi → filmarsivi
 ---
 
 ## ✍️ TIKTOK AÇIKLAMASI (kopyala-yapıştır)
-Nefes Kesen 5 Aksiyon Filmi 🎬 Kaydet, unutma!
-1. Dogman · 2. İnanılmaz Aile · 3. Ip Man · 4. Örümcek Adam: Örümcek Evreninde · 5. Nimona
+Uykunu Kaçıracak 5 Gerilim Filmi 🎬 Kaydet, unutma!
+1. Kirli İşler · 2. Amansız · 3. Dövüş Kulübü · 4. Ölüm Kitabı · 5. Dokuz Kraliçe
 Tam liste ve nerede izleneceği profildeki linkte 🔗
-#film #filmönerisi #dizi #netflix #filmtavsiyesi #izlenmesigerekenfilmler #aksiyon #filmarşivi #sinema #keşfet #fyp #keşfetteyiz
+#film #filmönerisi #dizi #netflix #filmtavsiyesi #izlenmesigerekenfilmler #gerilim #filmarşivi #sinema #keşfet #fyp #keşfetteyiz
 
 ---
 
