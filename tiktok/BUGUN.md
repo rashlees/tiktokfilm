@@ -1,5 +1,5 @@
-# 🎬 BUGÜNÜN VİDEOSU — 27.10.2026
-## Tema: Gerilim · "Uykunu Kaçıracak 5 Gerilim Filmi"
+# 🎬 BUGÜNÜN VİDEOSU — 28.10.2026
+## Tema: Bilim Kurgu · "Aklını Uçuracak 5 Bilim Kurgu"
 
 ---
 
@@ -7,7 +7,7 @@
 1. `tiktok/afis/` klasöründeki 1-2-3-4-5.jpg afişlerini sırayla ekle (her biri ~3 sn)
 2. Her afişin üstüne aşağıdaki METNİ yaz (kopyala-yapıştır)
 3. Trend bir müzik seç (CapCut → Ses → Trend)
-4. Başlığı en başa 1 sn "kapak" olarak koy: **Uykunu Kaçıracak 5 Gerilim Filmi**
+4. Başlığı en başa 1 sn "kapak" olarak koy: **Aklını Uçuracak 5 Bilim Kurgu**
 5. Videoyu indir, TikTok/Reels/Shorts'a yükle
 
 ---
@@ -15,21 +15,21 @@
 ## 🎞️ EKRAN METİNLERİ (afişlerin üstüne)
 
 **KAPAK (ilk kare):**
-Uykunu Kaçıracak 5 Gerilim Filmi 🍿
+Aklını Uçuracak 5 Bilim Kurgu 🍿
 
 **Açılış sözü (sesli/yazılı):**
-Sonunu tahmin edemeyeceğin 5 gerilim 😱
+Beynini yakacak 5 bilim kurgu filmi 🤯
 
-1️⃣ Kirli İşler (2002) — ⭐ 7.8
-     Mafyanın polisin içine, polisin de mafyanın içine yerleştirmiş olduğu köstebekler, yıll...
-2️⃣ Amansız (2026) — ⭐ 8.2
-     Eski bir özel kuvvet askeri, kayıp kızını kurtarmak için kuzey Myanmar'a sızar ve dolan...
-3️⃣ Dövüş Kulübü (1999) — ⭐ 8.4
-     Saatli bomba gibi patlamaya hazır, uykusuzluk çeken bir adam ile tekinsiz bir sabun sat...
-4️⃣ Ölüm Kitabı (1990) — ⭐ 7.8
-     Paul Sheldon kolay okunan popüler romanlar yazarıdır.
-5️⃣ Dokuz Kraliçe (2000) — ⭐ 7.8
-     Hayatta hiçbir şey ilk bakışta zannedildiği gibi değildir.
+1️⃣ Rogue One: Bir Star Wars Hikayesi (2016) — ⭐ 7.5
+     Lucasfilm'den Star Wars bağımsız filmlerinin ilki geliyor.
+2️⃣ Thor: Ragnarok (2017) — ⭐ 7.6
+     Marvel Stüdyoları'nın Thor: Ragnarok filminde, Thor evrenin diğer tarafında tutukludur ...
+3️⃣ Aç Gözünü (1997) — ⭐ 7.5
+     Hayatının baharında, genç ve güzel yüzlü Cesar (Eduardo Noriega) fazlasıyla güvendiği y...
+4️⃣ Mesaj (1997) — ⭐ 7.5
+     Uzayın derinliklerinden gelen bir takım mesajlar ile genç gökbilimci hayatının rüyasını...
+5️⃣ Yarının Savaşı (2021) — ⭐ 7.5
+     Dünya, gelecekteki bir uzaylı istilası nedeniyle yok olmanın eşiğindedir.
 
 **KAPANIŞ (son kare):**
 Hangisini izledin? 👇 Tam liste ve "nerede izlenir" bilgisi → filmarsivi
@@ -37,10 +37,10 @@ Hangisini izledin? 👇 Tam liste ve "nerede izlenir" bilgisi → filmarsivi
 ---
 
 ## ✍️ TIKTOK AÇIKLAMASI (kopyala-yapıştır)
-Uykunu Kaçıracak 5 Gerilim Filmi 🎬 Kaydet, unutma!
-1. Kirli İşler · 2. Amansız · 3. Dövüş Kulübü · 4. Ölüm Kitabı · 5. Dokuz Kraliçe
+Aklını Uçuracak 5 Bilim Kurgu 🎬 Kaydet, unutma!
+1. Rogue One: Bir Star Wars Hikayesi · 2. Thor: Ragnarok · 3. Aç Gözünü · 4. Mesaj · 5. Yarının Savaşı
 Tam liste ve nerede izleneceği profildeki linkte 🔗
-#film #filmönerisi #dizi #netflix #filmtavsiyesi #izlenmesigerekenfilmler #gerilim #filmarşivi #sinema #keşfet #fyp #keşfetteyiz
+#film #filmönerisi #dizi #netflix #filmtavsiyesi #izlenmesigerekenfilmler #bilimkurgu #filmarşivi #sinema #keşfet #fyp #keşfetteyiz
 
 ---
 
