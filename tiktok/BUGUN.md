@@ -1,5 +1,5 @@
-# 🎬 BUGÜNÜN VİDEOSU — 29.10.2026
-## Tema: Komedi · "Kahkaha Garantili 5 Komedi"
+# 🎬 BUGÜNÜN VİDEOSU — 30.10.2026
+## Tema: Dram · "Yüreğine Dokunacak 5 Dram Filmi"
 
 ---
 
@@ -7,7 +7,7 @@
 1. `tiktok/afis/` klasöründeki 1-2-3-4-5.jpg afişlerini sırayla ekle (her biri ~3 sn)
 2. Her afişin üstüne aşağıdaki METNİ yaz (kopyala-yapıştır)
 3. Trend bir müzik seç (CapCut → Ses → Trend)
-4. Başlığı en başa 1 sn "kapak" olarak koy: **Kahkaha Garantili 5 Komedi**
+4. Başlığı en başa 1 sn "kapak" olarak koy: **Yüreğine Dokunacak 5 Dram Filmi**
 5. Videoyu indir, TikTok/Reels/Shorts'a yükle
 
 ---
@@ -15,21 +15,21 @@
 ## 🎞️ EKRAN METİNLERİ (afişlerin üstüne)
 
 **KAPAK (ilk kare):**
-Kahkaha Garantili 5 Komedi 🍿
+Yüreğine Dokunacak 5 Dram Filmi 🍿
 
 **Açılış sözü (sesli/yazılı):**
-Gününü kurtaracak 5 komedi filmi 😂
+Seni benden alacak 5 dram filmi 🥲
 
-1️⃣ Köşedeki Dükkân (1940) — ⭐ 8.1
-     Hediyelik eşya dükkanında çalışan Alfred Kralik ve yeni işe giren Klara Novak, tanışır ...
-2️⃣ Oyuncak Hikayesi (1995) — ⭐ 8.0
-     Buzz Lightyear adlı yeni çıkan oyuncak, Andy'e hediye edilir.
-3️⃣ Bir Salyangozun Anıları (2024) — ⭐ 8.1
-     Bir Salyangozun Anıları, karmakarışık hayat mücadelesinin toz dumanının ortasında kendi...
-4️⃣ Çizmeli Kedi: Son Dilek (2022) — ⭐ 8.2
-     Herkesin sevgilisi, korkusuz kedi geri dönüyor.
-5️⃣ Vahşiler Firarda (2016) — ⭐ 7.6
-     Ricky, koruyucu ailesiyle birlikte Yeni Zelanda kırsalında mutlu bir yaşam sürmektedir.
+1️⃣ Soul (2020) — ⭐ 8.1
+     Küçük bir yanlış adım, şehrin en iyi caz kulübünde çalmak üzere hayatının şansını yakal...
+2️⃣ Kefernahum (2018) — ⭐ 8.1
+     Film, Zain'in sıradan bir küçük çocuktan, kendisini istismar eden ailesine baş kaldırıp...
+3️⃣ Duyguların Rengi (2011) — ⭐ 8.2
+     1960'lı yılların Mississippi eyaletinde geçen filmde Eugenie “Skeeter” Phelan, iyi bir ...
+4️⃣ Özel Tim (2007) — ⭐ 8.1
+     1997 yılında papa Brezilya'ya bir ziyaret yapacaktır.
+5️⃣ Zincirsiz (2012) — ⭐ 8.2
+     Amerikan İç Savaşı’ndan iki yıl önce geçen hikâye, eski bir köle olan Django’nun Alman ...
 
 **KAPANIŞ (son kare):**
 Hangisini izledin? 👇 Tam liste ve "nerede izlenir" bilgisi → filmarsivi
@@ -37,10 +37,10 @@ Hangisini izledin? 👇 Tam liste ve "nerede izlenir" bilgisi → filmarsivi
 ---
 
 ## ✍️ TIKTOK AÇIKLAMASI (kopyala-yapıştır)
-Kahkaha Garantili 5 Komedi 🎬 Kaydet, unutma!
-1. Köşedeki Dükkân · 2. Oyuncak Hikayesi · 3. Bir Salyangozun Anıları · 4. Çizmeli Kedi: Son Dilek · 5. Vahşiler Firarda
+Yüreğine Dokunacak 5 Dram Filmi 🎬 Kaydet, unutma!
+1. Soul · 2. Kefernahum · 3. Duyguların Rengi · 4. Özel Tim · 5. Zincirsiz
 Tam liste ve nerede izleneceği profildeki linkte 🔗
-#film #filmönerisi #dizi #netflix #filmtavsiyesi #izlenmesigerekenfilmler #komedi #filmarşivi #sinema #keşfet #fyp #keşfetteyiz
+#film #filmönerisi #dizi #netflix #filmtavsiyesi #izlenmesigerekenfilmler #dram #filmarşivi #sinema #keşfet #fyp #keşfetteyiz
 
 ---
 
