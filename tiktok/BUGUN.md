@@ -1,5 +1,5 @@
-# 🎬 BUGÜNÜN VİDEOSU — 30.10.2026
-## Tema: Dram · "Yüreğine Dokunacak 5 Dram Filmi"
+# 🎬 BUGÜNÜN VİDEOSU — 31.10.2026
+## Tema: Korku · "Geceleri İzlenmez 5 Korku Filmi"
 
 ---
 
@@ -7,7 +7,7 @@
 1. `tiktok/afis/` klasöründeki 1-2-3-4-5.jpg afişlerini sırayla ekle (her biri ~3 sn)
 2. Her afişin üstüne aşağıdaki METNİ yaz (kopyala-yapıştır)
 3. Trend bir müzik seç (CapCut → Ses → Trend)
-4. Başlığı en başa 1 sn "kapak" olarak koy: **Yüreğine Dokunacak 5 Dram Filmi**
+4. Başlığı en başa 1 sn "kapak" olarak koy: **Geceleri İzlenmez 5 Korku Filmi**
 5. Videoyu indir, TikTok/Reels/Shorts'a yükle
 
 ---
@@ -15,21 +15,21 @@
 ## 🎞️ EKRAN METİNLERİ (afişlerin üstüne)
 
 **KAPAK (ilk kare):**
-Yüreğine Dokunacak 5 Dram Filmi 🍿
+Geceleri İzlenmez 5 Korku Filmi 🍿
 
 **Açılış sözü (sesli/yazılı):**
-Seni benden alacak 5 dram filmi 🥲
+Tek başına izleme dersem? 👻
 
-1️⃣ Soul (2020) — ⭐ 8.1
-     Küçük bir yanlış adım, şehrin en iyi caz kulübünde çalmak üzere hayatının şansını yakal...
-2️⃣ Kefernahum (2018) — ⭐ 8.1
-     Film, Zain'in sıradan bir küçük çocuktan, kendisini istismar eden ailesine baş kaldırıp...
-3️⃣ Duyguların Rengi (2011) — ⭐ 8.2
-     1960'lı yılların Mississippi eyaletinde geçen filmde Eugenie “Skeeter” Phelan, iyi bir ...
-4️⃣ Özel Tim (2007) — ⭐ 8.1
-     1997 yılında papa Brezilya'ya bir ziyaret yapacaktır.
-5️⃣ Zincirsiz (2012) — ⭐ 8.2
-     Amerikan İç Savaşı’ndan iki yıl önce geçen hikâye, eski bir köle olan Django’nun Alman ...
+1️⃣ Ayin (2018) — ⭐ 7.3
+     Graham ailesinin en yaşlı üyesi esrarengiz anneanne Ellen’ın ölümü sonrası kızı Annie, ...
+2️⃣ Kristal Kanatlı Kuş (1970) — ⭐ 7.1
+     Amerikalı bir yazar olan Sam, Roma'da yaşayan ve yazar tıkanıklığıyla boğuşan bir adamdır.
+3️⃣ Konuş Benimle (2023) — ⭐ 7.1
+     Genç bir arkadaş grubu buldukları mumyalanmış lanetli bir eli kullanarak ruhları nasıl ...
+4️⃣ Silahlar (2025) — ⭐ 7.3
+     Maybrook adlı kasabada, aynı sınıfta bulunan bir çocuk dışında tüm çocuklar, bir gece a...
+5️⃣ Cevher (2024) — ⭐ 7.1
+     Bir aerobik programının yıldızı olan Elisabeth Sparkle, ilerleyen yaşı yüzünden 50.
 
 **KAPANIŞ (son kare):**
 Hangisini izledin? 👇 Tam liste ve "nerede izlenir" bilgisi → filmarsivi
@@ -37,10 +37,10 @@ Hangisini izledin? 👇 Tam liste ve "nerede izlenir" bilgisi → filmarsivi
 ---
 
 ## ✍️ TIKTOK AÇIKLAMASI (kopyala-yapıştır)
-Yüreğine Dokunacak 5 Dram Filmi 🎬 Kaydet, unutma!
-1. Soul · 2. Kefernahum · 3. Duyguların Rengi · 4. Özel Tim · 5. Zincirsiz
+Geceleri İzlenmez 5 Korku Filmi 🎬 Kaydet, unutma!
+1. Ayin · 2. Kristal Kanatlı Kuş · 3. Konuş Benimle · 4. Silahlar · 5. Cevher
 Tam liste ve nerede izleneceği profildeki linkte 🔗
-#film #filmönerisi #dizi #netflix #filmtavsiyesi #izlenmesigerekenfilmler #dram #filmarşivi #sinema #keşfet #fyp #keşfetteyiz
+#film #filmönerisi #dizi #netflix #filmtavsiyesi #izlenmesigerekenfilmler #korku #filmarşivi #sinema #keşfet #fyp #keşfetteyiz
 
 ---
 
