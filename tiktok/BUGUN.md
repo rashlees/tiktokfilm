@@ -1,5 +1,5 @@
-# 🎬 BUGÜNÜN VİDEOSU — 31.10.2026
-## Tema: Korku · "Geceleri İzlenmez 5 Korku Filmi"
+# 🎬 BUGÜNÜN VİDEOSU — 01.11.2026
+## Tema: Romantik · "İçini Isıtacak 5 Romantik Film"
 
 ---
 
@@ -7,7 +7,7 @@
 1. `tiktok/afis/` klasöründeki 1-2-3-4-5.jpg afişlerini sırayla ekle (her biri ~3 sn)
 2. Her afişin üstüne aşağıdaki METNİ yaz (kopyala-yapıştır)
 3. Trend bir müzik seç (CapCut → Ses → Trend)
-4. Başlığı en başa 1 sn "kapak" olarak koy: **Geceleri İzlenmez 5 Korku Filmi**
+4. Başlığı en başa 1 sn "kapak" olarak koy: **İçini Isıtacak 5 Romantik Film**
 5. Videoyu indir, TikTok/Reels/Shorts'a yükle
 
 ---
@@ -15,21 +15,21 @@
 ## 🎞️ EKRAN METİNLERİ (afişlerin üstüne)
 
 **KAPAK (ilk kare):**
-Geceleri İzlenmez 5 Korku Filmi 🍿
+İçini Isıtacak 5 Romantik Film 🍿
 
 **Açılış sözü (sesli/yazılı):**
-Tek başına izleme dersem? 👻
+Bu 5 filmden sonra âşık olacaksın 💘
 
-1️⃣ Ayin (2018) — ⭐ 7.3
-     Graham ailesinin en yaşlı üyesi esrarengiz anneanne Ellen’ın ölümü sonrası kızı Annie, ...
-2️⃣ Kristal Kanatlı Kuş (1970) — ⭐ 7.1
-     Amerikalı bir yazar olan Sam, Roma'da yaşayan ve yazar tıkanıklığıyla boğuşan bir adamdır.
-3️⃣ Konuş Benimle (2023) — ⭐ 7.1
-     Genç bir arkadaş grubu buldukları mumyalanmış lanetli bir eli kullanarak ruhları nasıl ...
-4️⃣ Silahlar (2025) — ⭐ 7.3
-     Maybrook adlı kasabada, aynı sınıfta bulunan bir çocuk dışında tüm çocuklar, bir gece a...
-5️⃣ Cevher (2024) — ⭐ 7.1
-     Bir aerobik programının yıldızı olan Elisabeth Sparkle, ilerleyen yaşı yüzünden 50.
+1️⃣ Küçük Kadınlar (2019) — ⭐ 7.8
+     Louisa May Alcott’ın aynı adlı klasik romanından beyazperdeye uyarlanan film, İç Savaş ...
+2️⃣ Brokeback Dağı (2005) — ⭐ 7.8
+     Yaşamını çiftliklerde çalışarak kazanan Ennis Del Mar ve rodeocu Jack Twist, Brokeback ...
+3️⃣ Rıhtımlar Üzerinde (1954) — ⭐ 7.8
+     Joey Doyle, rıhtımda öldürülür ve kimse ölüm hakkında birşey anlatmaya cesaret edemez.
+4️⃣ Aşk (2012) — ⭐ 7.7
+     80’lerinde emekli ve eğitimli iki müzik öğretmeni olan Georges ve Anne, ilerlemiş yaşla...
+5️⃣ Kalplerimiz Bir (2022) — ⭐ 8.0
+     Umut vadeden bir müzisyen yakında göreve gidecek bir askerle anlaşmalı evlilik yapmayı ...
 
 **KAPANIŞ (son kare):**
 Hangisini izledin? 👇 Tam liste ve "nerede izlenir" bilgisi → filmarsivi
@@ -37,10 +37,10 @@ Hangisini izledin? 👇 Tam liste ve "nerede izlenir" bilgisi → filmarsivi
 ---
 
 ## ✍️ TIKTOK AÇIKLAMASI (kopyala-yapıştır)
-Geceleri İzlenmez 5 Korku Filmi 🎬 Kaydet, unutma!
-1. Ayin · 2. Kristal Kanatlı Kuş · 3. Konuş Benimle · 4. Silahlar · 5. Cevher
+İçini Isıtacak 5 Romantik Film 🎬 Kaydet, unutma!
+1. Küçük Kadınlar · 2. Brokeback Dağı · 3. Rıhtımlar Üzerinde · 4. Aşk · 5. Kalplerimiz Bir
 Tam liste ve nerede izleneceği profildeki linkte 🔗
-#film #filmönerisi #dizi #netflix #filmtavsiyesi #izlenmesigerekenfilmler #korku #filmarşivi #sinema #keşfet #fyp #keşfetteyiz
+#film #filmönerisi #dizi #netflix #filmtavsiyesi #izlenmesigerekenfilmler #romantik #filmarşivi #sinema #keşfet #fyp #keşfetteyiz
 
 ---
 
