@@ -1,5 +1,5 @@
-# 🎬 BUGÜNÜN VİDEOSU — 01.11.2026
-## Tema: Romantik · "İçini Isıtacak 5 Romantik Film"
+# 🎬 BUGÜNÜN VİDEOSU — 02.11.2026
+## Tema: Aksiyon · "Nefes Kesen 5 Aksiyon Filmi"
 
 ---
 
@@ -7,7 +7,7 @@
 1. `tiktok/afis/` klasöründeki 1-2-3-4-5.jpg afişlerini sırayla ekle (her biri ~3 sn)
 2. Her afişin üstüne aşağıdaki METNİ yaz (kopyala-yapıştır)
 3. Trend bir müzik seç (CapCut → Ses → Trend)
-4. Başlığı en başa 1 sn "kapak" olarak koy: **İçini Isıtacak 5 Romantik Film**
+4. Başlığı en başa 1 sn "kapak" olarak koy: **Nefes Kesen 5 Aksiyon Filmi**
 5. Videoyu indir, TikTok/Reels/Shorts'a yükle
 
 ---
@@ -15,21 +15,21 @@
 ## 🎞️ EKRAN METİNLERİ (afişlerin üstüne)
 
 **KAPAK (ilk kare):**
-İçini Isıtacak 5 Romantik Film 🍿
+Nefes Kesen 5 Aksiyon Filmi 🍿
 
 **Açılış sözü (sesli/yazılı):**
-Bu 5 filmden sonra âşık olacaksın 💘
+Adrenalin arıyorsan bu 5 film tam sana göre 👊
 
-1️⃣ Küçük Kadınlar (2019) — ⭐ 7.8
-     Louisa May Alcott’ın aynı adlı klasik romanından beyazperdeye uyarlanan film, İç Savaş ...
-2️⃣ Brokeback Dağı (2005) — ⭐ 7.8
-     Yaşamını çiftliklerde çalışarak kazanan Ennis Del Mar ve rodeocu Jack Twist, Brokeback ...
-3️⃣ Rıhtımlar Üzerinde (1954) — ⭐ 7.8
-     Joey Doyle, rıhtımda öldürülür ve kimse ölüm hakkında birşey anlatmaya cesaret edemez.
-4️⃣ Aşk (2012) — ⭐ 7.7
-     80’lerinde emekli ve eğitimli iki müzik öğretmeni olan Georges ve Anne, ilerlemiş yaşla...
-5️⃣ Kalplerimiz Bir (2022) — ⭐ 8.0
-     Umut vadeden bir müzisyen yakında göreve gidecek bir askerle anlaşmalı evlilik yapmayı ...
+1️⃣ F1 Filmi (2025) — ⭐ 7.8
+     Yarış efsanesi Sonny Hayes, zor durumdaki bir Formula 1 takımına liderlik edip bir kez ...
+2️⃣ My Hero Academia: Heroes Rising (2019) — ⭐ 8.1
+     Profesyonel süper kahraman olmak isteyen bir grup genç, özel yeteneklerle donatılmış in...
+3️⃣ Ejderhanı Nasıl Eğitirsin (2025) — ⭐ 7.9
+     Vikingler ve ejderhaların nesiller boyu amansız düşmanlar olduğu Berk adasında Hıçkıdık...
+4️⃣ Jujutsu Kaisen 0 (2021) — ⭐ 8.1
+     Jujutsu Kaisen 0, son derece güçlü bir Lanetli Ruh'un kontrolünü ele geçirdikten sonra ...
+5️⃣ Genç Sherlock (1924) — ⭐ 8.0
+     Sherlock, bir sinema salonunda film oynatıcısıdır ama hayal dünyasında yaşar.
 
 **KAPANIŞ (son kare):**
 Hangisini izledin? 👇 Tam liste ve "nerede izlenir" bilgisi → filmarsivi
@@ -37,10 +37,10 @@ Hangisini izledin? 👇 Tam liste ve "nerede izlenir" bilgisi → filmarsivi
 ---
 
 ## ✍️ TIKTOK AÇIKLAMASI (kopyala-yapıştır)
-İçini Isıtacak 5 Romantik Film 🎬 Kaydet, unutma!
-1. Küçük Kadınlar · 2. Brokeback Dağı · 3. Rıhtımlar Üzerinde · 4. Aşk · 5. Kalplerimiz Bir
+Nefes Kesen 5 Aksiyon Filmi 🎬 Kaydet, unutma!
+1. F1 Filmi · 2. My Hero Academia: Heroes Rising · 3. Ejderhanı Nasıl Eğitirsin · 4. Jujutsu Kaisen 0 · 5. Genç Sherlock
 Tam liste ve nerede izleneceği profildeki linkte 🔗
-#film #filmönerisi #dizi #netflix #filmtavsiyesi #izlenmesigerekenfilmler #romantik #filmarşivi #sinema #keşfet #fyp #keşfetteyiz
+#film #filmönerisi #dizi #netflix #filmtavsiyesi #izlenmesigerekenfilmler #aksiyon #filmarşivi #sinema #keşfet #fyp #keşfetteyiz
 
 ---
 
