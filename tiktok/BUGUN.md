@@ -1,5 +1,5 @@
-# 🎬 BUGÜNÜN VİDEOSU — 02.11.2026
-## Tema: Aksiyon · "Nefes Kesen 5 Aksiyon Filmi"
+# 🎬 BUGÜNÜN VİDEOSU — 03.11.2026
+## Tema: Gerilim · "Uykunu Kaçıracak 5 Gerilim Filmi"
 
 ---
 
@@ -7,7 +7,7 @@
 1. `tiktok/afis/` klasöründeki 1-2-3-4-5.jpg afişlerini sırayla ekle (her biri ~3 sn)
 2. Her afişin üstüne aşağıdaki METNİ yaz (kopyala-yapıştır)
 3. Trend bir müzik seç (CapCut → Ses → Trend)
-4. Başlığı en başa 1 sn "kapak" olarak koy: **Nefes Kesen 5 Aksiyon Filmi**
+4. Başlığı en başa 1 sn "kapak" olarak koy: **Uykunu Kaçıracak 5 Gerilim Filmi**
 5. Videoyu indir, TikTok/Reels/Shorts'a yükle
 
 ---
@@ -15,21 +15,21 @@
 ## 🎞️ EKRAN METİNLERİ (afişlerin üstüne)
 
 **KAPAK (ilk kare):**
-Nefes Kesen 5 Aksiyon Filmi 🍿
+Uykunu Kaçıracak 5 Gerilim Filmi 🍿
 
 **Açılış sözü (sesli/yazılı):**
-Adrenalin arıyorsan bu 5 film tam sana göre 👊
+Sonunu tahmin edemeyeceğin 5 gerilim 😱
 
-1️⃣ F1 Filmi (2025) — ⭐ 7.8
-     Yarış efsanesi Sonny Hayes, zor durumdaki bir Formula 1 takımına liderlik edip bir kez ...
-2️⃣ My Hero Academia: Heroes Rising (2019) — ⭐ 8.1
-     Profesyonel süper kahraman olmak isteyen bir grup genç, özel yeteneklerle donatılmış in...
-3️⃣ Ejderhanı Nasıl Eğitirsin (2025) — ⭐ 7.9
-     Vikingler ve ejderhaların nesiller boyu amansız düşmanlar olduğu Berk adasında Hıçkıdık...
-4️⃣ Jujutsu Kaisen 0 (2021) — ⭐ 8.1
-     Jujutsu Kaisen 0, son derece güçlü bir Lanetli Ruh'un kontrolünü ele geçirdikten sonra ...
-5️⃣ Genç Sherlock (1924) — ⭐ 8.0
-     Sherlock, bir sinema salonunda film oynatıcısıdır ama hayal dünyasında yaşar.
+1️⃣ On Üç Yaşam (2022) — ⭐ 7.8
+     Dünyayı büyüleyen gerçek tırnak yeme görevine dayanmaktadır.
+2️⃣ Sığınak (2026) — ⭐ 7.7
+     Kendi isteğiyle sürgün yaşamaya çekilmiş bir adam, uzak bir adada şiddetli bir fırtınad...
+3️⃣ Gizemli Nehir (2003) — ⭐ 7.7
+     19 yaşındaki bir genç kızın trajik cinayeti, hâlâ Boston'da yaşayan üç çocukluk arkadaş...
+4️⃣ Dr. Caligari'nin Muayenehanesi (1920) — ⭐ 7.9
+     Doktor Caligari'nin Muayenehanesi(Das Kabinett des Dr.
+5️⃣ Mulholland Çıkmazı (2001) — ⭐ 7.8
+     Betty Elms, ünlü bir oyuncu olabilmek umuduyla geldiği Los Angeles'ta, Kanada'ya taşınm...
 
 **KAPANIŞ (son kare):**
 Hangisini izledin? 👇 Tam liste ve "nerede izlenir" bilgisi → filmarsivi
@@ -37,10 +37,10 @@ Hangisini izledin? 👇 Tam liste ve "nerede izlenir" bilgisi → filmarsivi
 ---
 
 ## ✍️ TIKTOK AÇIKLAMASI (kopyala-yapıştır)
-Nefes Kesen 5 Aksiyon Filmi 🎬 Kaydet, unutma!
-1. F1 Filmi · 2. My Hero Academia: Heroes Rising · 3. Ejderhanı Nasıl Eğitirsin · 4. Jujutsu Kaisen 0 · 5. Genç Sherlock
+Uykunu Kaçıracak 5 Gerilim Filmi 🎬 Kaydet, unutma!
+1. On Üç Yaşam · 2. Sığınak · 3. Gizemli Nehir · 4. Dr. Caligari'nin Muayenehanesi · 5. Mulholland Çıkmazı
 Tam liste ve nerede izleneceği profildeki linkte 🔗
-#film #filmönerisi #dizi #netflix #filmtavsiyesi #izlenmesigerekenfilmler #aksiyon #filmarşivi #sinema #keşfet #fyp #keşfetteyiz
+#film #filmönerisi #dizi #netflix #filmtavsiyesi #izlenmesigerekenfilmler #gerilim #filmarşivi #sinema #keşfet #fyp #keşfetteyiz
 
 ---
 
