@@ -1,5 +1,5 @@
-# 🎬 BUGÜNÜN VİDEOSU — 03.11.2026
-## Tema: Gerilim · "Uykunu Kaçıracak 5 Gerilim Filmi"
+# 🎬 BUGÜNÜN VİDEOSU — 04.11.2026
+## Tema: Bilim Kurgu · "Aklını Uçuracak 5 Bilim Kurgu"
 
 ---
 
@@ -7,7 +7,7 @@
 1. `tiktok/afis/` klasöründeki 1-2-3-4-5.jpg afişlerini sırayla ekle (her biri ~3 sn)
 2. Her afişin üstüne aşağıdaki METNİ yaz (kopyala-yapıştır)
 3. Trend bir müzik seç (CapCut → Ses → Trend)
-4. Başlığı en başa 1 sn "kapak" olarak koy: **Uykunu Kaçıracak 5 Gerilim Filmi**
+4. Başlığı en başa 1 sn "kapak" olarak koy: **Aklını Uçuracak 5 Bilim Kurgu**
 5. Videoyu indir, TikTok/Reels/Shorts'a yükle
 
 ---
@@ -15,21 +15,21 @@
 ## 🎞️ EKRAN METİNLERİ (afişlerin üstüne)
 
 **KAPAK (ilk kare):**
-Uykunu Kaçıracak 5 Gerilim Filmi 🍿
+Aklını Uçuracak 5 Bilim Kurgu 🍿
 
 **Açılış sözü (sesli/yazılı):**
-Sonunu tahmin edemeyeceğin 5 gerilim 😱
+Beynini yakacak 5 bilim kurgu filmi 🤯
 
-1️⃣ On Üç Yaşam (2022) — ⭐ 7.8
-     Dünyayı büyüleyen gerçek tırnak yeme görevine dayanmaktadır.
-2️⃣ Sığınak (2026) — ⭐ 7.7
-     Kendi isteğiyle sürgün yaşamaya çekilmiş bir adam, uzak bir adada şiddetli bir fırtınad...
-3️⃣ Gizemli Nehir (2003) — ⭐ 7.7
-     19 yaşındaki bir genç kızın trajik cinayeti, hâlâ Boston'da yaşayan üç çocukluk arkadaş...
-4️⃣ Dr. Caligari'nin Muayenehanesi (1920) — ⭐ 7.9
-     Doktor Caligari'nin Muayenehanesi(Das Kabinett des Dr.
-5️⃣ Mulholland Çıkmazı (2001) — ⭐ 7.8
-     Betty Elms, ünlü bir oyuncu olabilmek umuduyla geldiği Los Angeles'ta, Kanada'ya taşınm...
+1️⃣ Jurassic Park (1993) — ⭐ 8.0
+     Mağaralarda yapılan kazı çalışmaları sonucunda dinozorların yaşadığı tarih öncesi çağa ...
+2️⃣ Blade Runner 2049: Bıçak Sırtı (2017) — ⭐ 7.6
+     İlk filmdeki olayların üzerinden 30 yıldan daha uzun bir zaman geçmişken, Los Angeles P...
+3️⃣ Robot Düşleri (2023) — ⭐ 8.0
+     Yalnız ve mutsuz bir köpek, bir robotla arkadaş olur.
+4️⃣ 2001: Uzay Yolu Macerası (1968) — ⭐ 8.0
+     Stanley Kubrick, klasik bilim kurgu başyapıtı olan insanlığın doğası üzerine bir yorum ...
+5️⃣ A Grand Day Out (1990) — ⭐ 7.5
+     Kötü şans - Wallace'ın peyniri bitti.
 
 **KAPANIŞ (son kare):**
 Hangisini izledin? 👇 Tam liste ve "nerede izlenir" bilgisi → filmarsivi
@@ -37,10 +37,10 @@ Hangisini izledin? 👇 Tam liste ve "nerede izlenir" bilgisi → filmarsivi
 ---
 
 ## ✍️ TIKTOK AÇIKLAMASI (kopyala-yapıştır)
-Uykunu Kaçıracak 5 Gerilim Filmi 🎬 Kaydet, unutma!
-1. On Üç Yaşam · 2. Sığınak · 3. Gizemli Nehir · 4. Dr. Caligari'nin Muayenehanesi · 5. Mulholland Çıkmazı
+Aklını Uçuracak 5 Bilim Kurgu 🎬 Kaydet, unutma!
+1. Jurassic Park · 2. Blade Runner 2049: Bıçak Sırtı · 3. Robot Düşleri · 4. 2001: Uzay Yolu Macerası · 5. A Grand Day Out
 Tam liste ve nerede izleneceği profildeki linkte 🔗
-#film #filmönerisi #dizi #netflix #filmtavsiyesi #izlenmesigerekenfilmler #gerilim #filmarşivi #sinema #keşfet #fyp #keşfetteyiz
+#film #filmönerisi #dizi #netflix #filmtavsiyesi #izlenmesigerekenfilmler #bilimkurgu #filmarşivi #sinema #keşfet #fyp #keşfetteyiz
 
 ---
 
