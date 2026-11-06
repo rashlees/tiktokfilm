@@ -1,5 +1,5 @@
-# 🎬 BUGÜNÜN VİDEOSU — 05.11.2026
-## Tema: Komedi · "Kahkaha Garantili 5 Komedi"
+# 🎬 BUGÜNÜN VİDEOSU — 06.11.2026
+## Tema: Dram · "Yüreğine Dokunacak 5 Dram Filmi"
 
 ---
 
@@ -7,7 +7,7 @@
 1. `tiktok/afis/` klasöründeki 1-2-3-4-5.jpg afişlerini sırayla ekle (her biri ~3 sn)
 2. Her afişin üstüne aşağıdaki METNİ yaz (kopyala-yapıştır)
 3. Trend bir müzik seç (CapCut → Ses → Trend)
-4. Başlığı en başa 1 sn "kapak" olarak koy: **Kahkaha Garantili 5 Komedi**
+4. Başlığı en başa 1 sn "kapak" olarak koy: **Yüreğine Dokunacak 5 Dram Filmi**
 5. Videoyu indir, TikTok/Reels/Shorts'a yükle
 
 ---
@@ -15,21 +15,21 @@
 ## 🎞️ EKRAN METİNLERİ (afişlerin üstüne)
 
 **KAPAK (ilk kare):**
-Kahkaha Garantili 5 Komedi 🍿
+Yüreğine Dokunacak 5 Dram Filmi 🍿
 
 **Açılış sözü (sesli/yazılı):**
-Gününü kurtaracak 5 komedi filmi 😂
+Seni benden alacak 5 dram filmi 🥲
 
-1️⃣ Kahkahalar Kralı (1982) — ⭐ 7.8
-     Bir yetişkin olmasına rağmen hala ailesiyle yaşayan bir 'kaçık' olan Rupert Pupkin, pek...
-2️⃣ Kağıtçı (2012) — ⭐ 8.0
-     Bir büroda çalışan genç bir adam, sokağın karşısındaki bir gökdelenin penceresinde haya...
-3️⃣ Kural Dışı (2019) — ⭐ 7.8
-     Kural Dışı, okul öncesi eğitimcisi olan bir adam ile özel eğitim alması gereken gençler...
-4️⃣ Şrek (2001) — ⭐ 7.8
-     Şrek, oldukça korkutucu bir görünüme sahip, devasa, yeşil bir troldür.
-5️⃣ Hayata Röveşata Çeken Adam (2022) — ⭐ 7.7
-     Tek eğlencesi kendisinden bıkmış komşularını eleştirmek ve acımasızca yargılamak olan h...
+1️⃣ Esaretin Bedeli (1994) — ⭐ 8.7
+     Genç ve başarılı bir banker olan Andy Dufresne, karısını ve onun sevgilisini öldürmek s...
+2️⃣ Taksi Şoförü (1976) — ⭐ 8.1
+     Hem Martin Scorsese’nin hem de Robert De Niro’nun filmografilerindeki belki de bu en ça...
+3️⃣ Baba II (1974) — ⭐ 8.6
+     Genç Vito Corleone, Amerika'ya yeni gelmiştir.
+4️⃣ Senin Adın (2016) — ⭐ 8.5
+     Lise öğrencileri Mitsuha ve Taki, ayrı hayatlar yaşayan birbirine tamamen yabancı iki k...
+5️⃣ Hâlâ Umut Var (2023) — ⭐ 8.1
+     Savaş sonrası İtalya'da, sıradan bir ev kadını olan Delia'nın ailesi, çok sevilen büyük...
 
 **KAPANIŞ (son kare):**
 Hangisini izledin? 👇 Tam liste ve "nerede izlenir" bilgisi → filmarsivi
@@ -37,10 +37,10 @@ Hangisini izledin? 👇 Tam liste ve "nerede izlenir" bilgisi → filmarsivi
 ---
 
 ## ✍️ TIKTOK AÇIKLAMASI (kopyala-yapıştır)
-Kahkaha Garantili 5 Komedi 🎬 Kaydet, unutma!
-1. Kahkahalar Kralı · 2. Kağıtçı · 3. Kural Dışı · 4. Şrek · 5. Hayata Röveşata Çeken Adam
+Yüreğine Dokunacak 5 Dram Filmi 🎬 Kaydet, unutma!
+1. Esaretin Bedeli · 2. Taksi Şoförü · 3. Baba II · 4. Senin Adın · 5. Hâlâ Umut Var
 Tam liste ve nerede izleneceği profildeki linkte 🔗
-#film #filmönerisi #dizi #netflix #filmtavsiyesi #izlenmesigerekenfilmler #komedi #filmarşivi #sinema #keşfet #fyp #keşfetteyiz
+#film #filmönerisi #dizi #netflix #filmtavsiyesi #izlenmesigerekenfilmler #dram #filmarşivi #sinema #keşfet #fyp #keşfetteyiz
 
 ---
 
