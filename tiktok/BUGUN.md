@@ -1,5 +1,5 @@
-# 🎬 BUGÜNÜN VİDEOSU — 10.11.2026
-## Tema: Gerilim · "Uykunu Kaçıracak 5 Gerilim Filmi"
+# 🎬 BUGÜNÜN VİDEOSU — 11.11.2026
+## Tema: Bilim Kurgu · "Aklını Uçuracak 5 Bilim Kurgu"
 
 ---
 
@@ -7,7 +7,7 @@
 1. `tiktok/afis/` klasöründeki 1-2-3-4-5.jpg afişlerini sırayla ekle (her biri ~3 sn)
 2. Her afişin üstüne aşağıdaki METNİ yaz (kopyala-yapıştır)
 3. Trend bir müzik seç (CapCut → Ses → Trend)
-4. Başlığı en başa 1 sn "kapak" olarak koy: **Uykunu Kaçıracak 5 Gerilim Filmi**
+4. Başlığı en başa 1 sn "kapak" olarak koy: **Aklını Uçuracak 5 Bilim Kurgu**
 5. Videoyu indir, TikTok/Reels/Shorts'a yükle
 
 ---
@@ -15,21 +15,21 @@
 ## 🎞️ EKRAN METİNLERİ (afişlerin üstüne)
 
 **KAPAK (ilk kare):**
-Uykunu Kaçıracak 5 Gerilim Filmi 🍿
+Aklını Uçuracak 5 Bilim Kurgu 🍿
 
 **Açılış sözü (sesli/yazılı):**
-Sonunu tahmin edemeyeceğin 5 gerilim 😱
+Beynini yakacak 5 bilim kurgu filmi 🤯
 
-1️⃣ Ölümcül Takip (2008) — ⭐ 7.8
-     Joong-ho eski ve kirli bir dedektif polis olup finansal sorunlar yaşarken çareyi kadın ...
-2️⃣ Başkalarının Hayatı (2006) — ⭐ 8.0
-     Doğu Almanya'nın kapalı politik atmosferi içinde, partiye ve devlete sadakatleri sürekl...
-3️⃣ Dogville (2003) — ⭐ 7.7
-     Peşindeki mafyadan kaçarak Rocky Dağları'ndaki izole bir kasabaya sığınan Grace, korunm...
-4️⃣ Çifte Tazminat (1944) — ⭐ 8.1
-     Büyük bir sigorta şirketinde çalışan Walter, sondaj işinde çalışan zengin kocası sürekl...
-5️⃣ Şeytan Ruhlu İnsanlar (1955) — ⭐ 7.9
-     Michel Delassalle yatılı bir okulun müdürüdür Okulun mülkiyeti karısı Christina'ya aitt...
+1️⃣ Yaratığın Dönüşü (1986) — ⭐ 8.0
+     Nostromo'dan kurtulan tek kişi olan Teğmen Ellen Ripley, yarım yüzyıllık derin uykusund...
+2️⃣ Kelebek Etkisi (2004) — ⭐ 7.6
+     Çocukluğundan gelen korkunç hatıralarıyla mücadele etmek zorunda kalan genç bir adam za...
+3️⃣ Görünmez Adam (1933) — ⭐ 7.5
+     Yüzü bandajlarla kaplı, siyah gözlükler takmış gizemli bir adam, İngiltere'nin küçük bi...
+4️⃣ Ay (2009) — ⭐ 7.6
+     Astronot Sam Bell, Lunar Industries şirketi ile üç senelik bir kontrata imza atmıştır.
+5️⃣ Grip (2013) — ⭐ 7.5
+     Bilenmeyen bir hastalık aniden baş gösterir, bölgesel yıkımlara sebep olur.
 
 **KAPANIŞ (son kare):**
 Hangisini izledin? 👇 Tam liste ve "nerede izlenir" bilgisi → filmarsivi
@@ -37,10 +37,10 @@ Hangisini izledin? 👇 Tam liste ve "nerede izlenir" bilgisi → filmarsivi
 ---
 
 ## ✍️ TIKTOK AÇIKLAMASI (kopyala-yapıştır)
-Uykunu Kaçıracak 5 Gerilim Filmi 🎬 Kaydet, unutma!
-1. Ölümcül Takip · 2. Başkalarının Hayatı · 3. Dogville · 4. Çifte Tazminat · 5. Şeytan Ruhlu İnsanlar
+Aklını Uçuracak 5 Bilim Kurgu 🎬 Kaydet, unutma!
+1. Yaratığın Dönüşü · 2. Kelebek Etkisi · 3. Görünmez Adam · 4. Ay · 5. Grip
 Tam liste ve nerede izleneceği profildeki linkte 🔗
-#film #filmönerisi #dizi #netflix #filmtavsiyesi #izlenmesigerekenfilmler #gerilim #filmarşivi #sinema #keşfet #fyp #keşfetteyiz
+#film #filmönerisi #dizi #netflix #filmtavsiyesi #izlenmesigerekenfilmler #bilimkurgu #filmarşivi #sinema #keşfet #fyp #keşfetteyiz
 
 ---
 
