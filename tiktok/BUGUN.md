@@ -1,5 +1,5 @@
-# 🎬 BUGÜNÜN VİDEOSU — 11.11.2026
-## Tema: Bilim Kurgu · "Aklını Uçuracak 5 Bilim Kurgu"
+# 🎬 BUGÜNÜN VİDEOSU — 12.11.2026
+## Tema: Komedi · "Kahkaha Garantili 5 Komedi"
 
 ---
 
@@ -7,7 +7,7 @@
 1. `tiktok/afis/` klasöründeki 1-2-3-4-5.jpg afişlerini sırayla ekle (her biri ~3 sn)
 2. Her afişin üstüne aşağıdaki METNİ yaz (kopyala-yapıştır)
 3. Trend bir müzik seç (CapCut → Ses → Trend)
-4. Başlığı en başa 1 sn "kapak" olarak koy: **Aklını Uçuracak 5 Bilim Kurgu**
+4. Başlığı en başa 1 sn "kapak" olarak koy: **Kahkaha Garantili 5 Komedi**
 5. Videoyu indir, TikTok/Reels/Shorts'a yükle
 
 ---
@@ -15,21 +15,21 @@
 ## 🎞️ EKRAN METİNLERİ (afişlerin üstüne)
 
 **KAPAK (ilk kare):**
-Aklını Uçuracak 5 Bilim Kurgu 🍿
+Kahkaha Garantili 5 Komedi 🍿
 
 **Açılış sözü (sesli/yazılı):**
-Beynini yakacak 5 bilim kurgu filmi 🤯
+Gününü kurtaracak 5 komedi filmi 😂
 
-1️⃣ Yaratığın Dönüşü (1986) — ⭐ 8.0
-     Nostromo'dan kurtulan tek kişi olan Teğmen Ellen Ripley, yarım yüzyıllık derin uykusund...
-2️⃣ Kelebek Etkisi (2004) — ⭐ 7.6
-     Çocukluğundan gelen korkunç hatıralarıyla mücadele etmek zorunda kalan genç bir adam za...
-3️⃣ Görünmez Adam (1933) — ⭐ 7.5
-     Yüzü bandajlarla kaplı, siyah gözlükler takmış gizemli bir adam, İngiltere'nin küçük bi...
-4️⃣ Ay (2009) — ⭐ 7.6
-     Astronot Sam Bell, Lunar Industries şirketi ile üç senelik bir kontrata imza atmıştır.
-5️⃣ Grip (2013) — ⭐ 7.5
-     Bilenmeyen bir hastalık aniden baş gösterir, bölgesel yıkımlara sebep olur.
+1️⃣ Bıçaklar Çekildi (2019) — ⭐ 7.8
+     Tanınmış polisiye yazarı Harlan Thrombey 85.
+2️⃣ Ratatuy (2007) — ⭐ 7.8
+     Film, yemek yapma yeteneğine sahip Remy adında bir farenin hikayesini anlatıyor.
+3️⃣ Düğün Çiçeği (1987) — ⭐ 7.7
+     Büyükbaba, yatağın ucunda torununa, babadan oğula geçen bir masalı anlatmaktadır.
+4️⃣ Mayday (2026) — ⭐ 7.8
+     Bir ABD Deniz Kuvvetleri pilotu, Soğuk Savaş sırasında çok gizli bir göreve çıkar ve dü...
+5️⃣ Parçalı Bulutlu (2009) — ⭐ 7.7
+     Bebekleri leyleklerin getirdiğini herkes bilir.
 
 **KAPANIŞ (son kare):**
 Hangisini izledin? 👇 Tam liste ve "nerede izlenir" bilgisi → filmarsivi
@@ -37,10 +37,10 @@ Hangisini izledin? 👇 Tam liste ve "nerede izlenir" bilgisi → filmarsivi
 ---
 
 ## ✍️ TIKTOK AÇIKLAMASI (kopyala-yapıştır)
-Aklını Uçuracak 5 Bilim Kurgu 🎬 Kaydet, unutma!
-1. Yaratığın Dönüşü · 2. Kelebek Etkisi · 3. Görünmez Adam · 4. Ay · 5. Grip
+Kahkaha Garantili 5 Komedi 🎬 Kaydet, unutma!
+1. Bıçaklar Çekildi · 2. Ratatuy · 3. Düğün Çiçeği · 4. Mayday · 5. Parçalı Bulutlu
 Tam liste ve nerede izleneceği profildeki linkte 🔗
-#film #filmönerisi #dizi #netflix #filmtavsiyesi #izlenmesigerekenfilmler #bilimkurgu #filmarşivi #sinema #keşfet #fyp #keşfetteyiz
+#film #filmönerisi #dizi #netflix #filmtavsiyesi #izlenmesigerekenfilmler #komedi #filmarşivi #sinema #keşfet #fyp #keşfetteyiz
 
 ---
 
