@@ -1,5 +1,5 @@
-# 🎬 BUGÜNÜN VİDEOSU — 12.11.2026
-## Tema: Komedi · "Kahkaha Garantili 5 Komedi"
+# 🎬 BUGÜNÜN VİDEOSU — 13.11.2026
+## Tema: Dram · "Yüreğine Dokunacak 5 Dram Filmi"
 
 ---
 
@@ -7,7 +7,7 @@
 1. `tiktok/afis/` klasöründeki 1-2-3-4-5.jpg afişlerini sırayla ekle (her biri ~3 sn)
 2. Her afişin üstüne aşağıdaki METNİ yaz (kopyala-yapıştır)
 3. Trend bir müzik seç (CapCut → Ses → Trend)
-4. Başlığı en başa 1 sn "kapak" olarak koy: **Kahkaha Garantili 5 Komedi**
+4. Başlığı en başa 1 sn "kapak" olarak koy: **Yüreğine Dokunacak 5 Dram Filmi**
 5. Videoyu indir, TikTok/Reels/Shorts'a yükle
 
 ---
@@ -15,21 +15,21 @@
 ## 🎞️ EKRAN METİNLERİ (afişlerin üstüne)
 
 **KAPAK (ilk kare):**
-Kahkaha Garantili 5 Komedi 🍿
+Yüreğine Dokunacak 5 Dram Filmi 🍿
 
 **Açılış sözü (sesli/yazılı):**
-Gününü kurtaracak 5 komedi filmi 😂
+Seni benden alacak 5 dram filmi 🥲
 
-1️⃣ Bıçaklar Çekildi (2019) — ⭐ 7.8
-     Tanınmış polisiye yazarı Harlan Thrombey 85.
-2️⃣ Ratatuy (2007) — ⭐ 7.8
-     Film, yemek yapma yeteneğine sahip Remy adında bir farenin hikayesini anlatıyor.
-3️⃣ Düğün Çiçeği (1987) — ⭐ 7.7
-     Büyükbaba, yatağın ucunda torununa, babadan oğula geçen bir masalı anlatmaktadır.
-4️⃣ Mayday (2026) — ⭐ 7.8
-     Bir ABD Deniz Kuvvetleri pilotu, Soğuk Savaş sırasında çok gizli bir göreve çıkar ve dü...
-5️⃣ Parçalı Bulutlu (2009) — ⭐ 7.7
-     Bebekleri leyleklerin getirdiğini herkes bilir.
+1️⃣ Şeref Bağı (1993) — ⭐ 8.2
+     Meksikalı iki kardeş olan Paco ve Cruz ile kuzenleri Miklo’nun 70’lerde Los Angeles’ta ...
+2️⃣ Kıyamet (1979) — ⭐ 8.3
+     Yönetmenin kurguladığı Final Cut versiyonu ile izleyici karşısına çıkan film, Vietnam'd...
+3️⃣ Palmer (2021) — ⭐ 8.1
+     Hapiste geçen 12 yılın ardından hayatına çeki düzen vermek için ninesinin yanına taşına...
+4️⃣ Sıkı Dostlar (1990) — ⭐ 8.5
+     Gerçek bir hayat hikayesinden uyarlanan filmde Henry Hill adında bir gangster, Jimmy Co...
+5️⃣ Persona (1966) — ⭐ 8.1
+     Genç bir hemşire olan Alma, her bakımdan sağlıklı görünen ancak konuşmayı reddeden aktr...
 
 **KAPANIŞ (son kare):**
 Hangisini izledin? 👇 Tam liste ve "nerede izlenir" bilgisi → filmarsivi
@@ -37,10 +37,10 @@ Hangisini izledin? 👇 Tam liste ve "nerede izlenir" bilgisi → filmarsivi
 ---
 
 ## ✍️ TIKTOK AÇIKLAMASI (kopyala-yapıştır)
-Kahkaha Garantili 5 Komedi 🎬 Kaydet, unutma!
-1. Bıçaklar Çekildi · 2. Ratatuy · 3. Düğün Çiçeği · 4. Mayday · 5. Parçalı Bulutlu
+Yüreğine Dokunacak 5 Dram Filmi 🎬 Kaydet, unutma!
+1. Şeref Bağı · 2. Kıyamet · 3. Palmer · 4. Sıkı Dostlar · 5. Persona
 Tam liste ve nerede izleneceği profildeki linkte 🔗
-#film #filmönerisi #dizi #netflix #filmtavsiyesi #izlenmesigerekenfilmler #komedi #filmarşivi #sinema #keşfet #fyp #keşfetteyiz
+#film #filmönerisi #dizi #netflix #filmtavsiyesi #izlenmesigerekenfilmler #dram #filmarşivi #sinema #keşfet #fyp #keşfetteyiz
 
 ---
 
