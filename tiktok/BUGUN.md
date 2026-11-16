@@ -1,5 +1,5 @@
-# 🎬 BUGÜNÜN VİDEOSU — 15.11.2026
-## Tema: Romantik · "İçini Isıtacak 5 Romantik Film"
+# 🎬 BUGÜNÜN VİDEOSU — 16.11.2026
+## Tema: Aksiyon · "Nefes Kesen 5 Aksiyon Filmi"
 
 ---
 
@@ -7,7 +7,7 @@
 1. `tiktok/afis/` klasöründeki 1-2-3-4-5.jpg afişlerini sırayla ekle (her biri ~3 sn)
 2. Her afişin üstüne aşağıdaki METNİ yaz (kopyala-yapıştır)
 3. Trend bir müzik seç (CapCut → Ses → Trend)
-4. Başlığı en başa 1 sn "kapak" olarak koy: **İçini Isıtacak 5 Romantik Film**
+4. Başlığı en başa 1 sn "kapak" olarak koy: **Nefes Kesen 5 Aksiyon Filmi**
 5. Videoyu indir, TikTok/Reels/Shorts'a yükle
 
 ---
@@ -15,21 +15,21 @@
 ## 🎞️ EKRAN METİNLERİ (afişlerin üstüne)
 
 **KAPAK (ilk kare):**
-İçini Isıtacak 5 Romantik Film 🍿
+Nefes Kesen 5 Aksiyon Filmi 🍿
 
 **Açılış sözü (sesli/yazılı):**
-Bu 5 filmden sonra âşık olacaksın 💘
+Adrenalin arıyorsan bu 5 film tam sana göre 👊
 
-1️⃣ Red, White & Royal Blue (2023) — ⭐ 7.9
-     New York Times'ın çok satan kitaplarından uyarlanan Kırmızı, Beyaz ve Kraliyet Mavisi, ...
-2️⃣ Neşeli Günler (1965) — ⭐ 7.7
-     Eski bir rahibe, sert bir disiplinle yetişmiş Avusturyalı zengin bir dul adamın 7 çocuğ...
-3️⃣ Aşk (2013) — ⭐ 7.8
-     Theodore Twombly hayatını, yakın gelecekte nadir bulunan bir şeye dönüşmüş olan el yazı...
-4️⃣ Rüzgâr Gibi Geçti (1939) — ⭐ 7.9
-     Güneyli güzel Scarlett O'Hara üç evliliği, iç savaş ve Güneyin yeniden inşaa edilmesi s...
-5️⃣ Aynı Yıldızın Altında (2014) — ⭐ 7.6
-     16 yaşındaki Hazel üç yıldır tiroid kanseriyle boğuşmaktadır ve kanser akciğerlerine de...
+1️⃣ Monte Kristo Kontu (2002) — ⭐ 7.7
+     Edmond Dantes dürüst ve saf bir denizcidir.
+2️⃣ The Gangster, the Cop, the Devil (2019) — ⭐ 7.9
+     Bir seri katilin saldırısından zar zor kurtulan suç patronu Jang Dong-su, sadist katili...
+3️⃣ The Witch Part I: İntikam (2018) — ⭐ 7.9
+     Ja yoon, 10 yıl önce, açıklanamayan bir olayın gerçekleştiği bir hükümet tesisinden kaç...
+4️⃣ Mortal Kombat Legends: Scorpion's Revenge (2020) — ⭐ 8.1
+     Outworld ve Earthrealm'ın tüm şampiyonları arasında bir kez daha Dünya’nın kaderini bel...
+5️⃣ Dragon Ball Z: Fusion Yeniden Doğdu (1995) — ⭐ 7.6
+     İşine dikkat etmeyen genç bir iblis, şeytani temizleme makinesinin taşmasına ve patlama...
 
 **KAPANIŞ (son kare):**
 Hangisini izledin? 👇 Tam liste ve "nerede izlenir" bilgisi → filmarsivi
@@ -37,10 +37,10 @@ Hangisini izledin? 👇 Tam liste ve "nerede izlenir" bilgisi → filmarsivi
 ---
 
 ## ✍️ TIKTOK AÇIKLAMASI (kopyala-yapıştır)
-İçini Isıtacak 5 Romantik Film 🎬 Kaydet, unutma!
-1. Red, White & Royal Blue · 2. Neşeli Günler · 3. Aşk · 4. Rüzgâr Gibi Geçti · 5. Aynı Yıldızın Altında
+Nefes Kesen 5 Aksiyon Filmi 🎬 Kaydet, unutma!
+1. Monte Kristo Kontu · 2. The Gangster, the Cop, the Devil · 3. The Witch Part I: İntikam · 4. Mortal Kombat Legends: Scorpion's Revenge · 5. Dragon Ball Z: Fusion Yeniden Doğdu
 Tam liste ve nerede izleneceği profildeki linkte 🔗
-#film #filmönerisi #dizi #netflix #filmtavsiyesi #izlenmesigerekenfilmler #romantik #filmarşivi #sinema #keşfet #fyp #keşfetteyiz
+#film #filmönerisi #dizi #netflix #filmtavsiyesi #izlenmesigerekenfilmler #aksiyon #filmarşivi #sinema #keşfet #fyp #keşfetteyiz
 
 ---
 
