@@ -1,5 +1,5 @@
-# 🎬 BUGÜNÜN VİDEOSU — 17.11.2026
-## Tema: Gerilim · "Uykunu Kaçıracak 5 Gerilim Filmi"
+# 🎬 BUGÜNÜN VİDEOSU — 18.11.2026
+## Tema: Bilim Kurgu · "Aklını Uçuracak 5 Bilim Kurgu"
 
 ---
 
@@ -7,7 +7,7 @@
 1. `tiktok/afis/` klasöründeki 1-2-3-4-5.jpg afişlerini sırayla ekle (her biri ~3 sn)
 2. Her afişin üstüne aşağıdaki METNİ yaz (kopyala-yapıştır)
 3. Trend bir müzik seç (CapCut → Ses → Trend)
-4. Başlığı en başa 1 sn "kapak" olarak koy: **Uykunu Kaçıracak 5 Gerilim Filmi**
+4. Başlığı en başa 1 sn "kapak" olarak koy: **Aklını Uçuracak 5 Bilim Kurgu**
 5. Videoyu indir, TikTok/Reels/Shorts'a yükle
 
 ---
@@ -15,21 +15,21 @@
 ## 🎞️ EKRAN METİNLERİ (afişlerin üstüne)
 
 **KAPAK (ilk kare):**
-Uykunu Kaçıracak 5 Gerilim Filmi 🍿
+Aklını Uçuracak 5 Bilim Kurgu 🍿
 
 **Açılış sözü (sesli/yazılı):**
-Sonunu tahmin edemeyeceğin 5 gerilim 😱
+Beynini yakacak 5 bilim kurgu filmi 🤯
 
-1️⃣ İhtiyar Delikanlı (2003) — ⭐ 8.2
-     Oh Dae-su, bir gün kendisini küçük karanlık bir hücrede bulur.
-2️⃣ Derin Uyku (1946) — ⭐ 7.6
-     General Sternwood kızının üzerinden ona şantaj yapan Arthur Geiger'dan korunmak için ün...
-3️⃣ Fargo (1996) — ⭐ 7.8
-     Jerry Lundegaard borçları olan bir sahtekârdır.
-4️⃣ Karşı Atak (2025) — ⭐ 8.3
-     Bir rehine kurtarma operasyonunun ardından yeni bir düşman edinen Yüzbaşı Guerrero ve o...
-5️⃣ Sherlock: The Abominable Bride (2016) — ⭐ 7.8
-     Tamamen yeni sezona hazırlık için bir ara bölüm olarak düşünülmüş ve seyircilere sunula...
+1️⃣ Yıldızlararası (2014) — ⭐ 8.5
+     Dünya'nın kuraklık ve kıtlıkla yok oluşun eşiğine geldiği bir gelecekte, insanlığın hay...
+2️⃣ Şey (1982) — ⭐ 8.1
+     Antarktika'da bir grup ABD'li bilim insanı Norveçli meslekdaşlarının boş ve yıkık araşt...
+3️⃣ Furiosa: Bir Mad Max Destanı (2024) — ⭐ 7.4
+     Genç Furiosa, dünya çökerken Nice Annelerin Yeşil Diyarı’ndan kaçırılır ve Savaş Lordu ...
+4️⃣ Değerli (2006) — ⭐ 7.4
+     Kendine aşırı güvenen bir genç uzaylı, bir uzay gemisinin kontrolüne geçtiğinde, katı b...
+5️⃣ VOL-İ (2008) — ⭐ 8.1
+     Vol-i, günümüzden çok uzak bir gelecekte geçmektedir.
 
 **KAPANIŞ (son kare):**
 Hangisini izledin? 👇 Tam liste ve "nerede izlenir" bilgisi → filmarsivi
@@ -37,10 +37,10 @@ Hangisini izledin? 👇 Tam liste ve "nerede izlenir" bilgisi → filmarsivi
 ---
 
 ## ✍️ TIKTOK AÇIKLAMASI (kopyala-yapıştır)
-Uykunu Kaçıracak 5 Gerilim Filmi 🎬 Kaydet, unutma!
-1. İhtiyar Delikanlı · 2. Derin Uyku · 3. Fargo · 4. Karşı Atak · 5. Sherlock: The Abominable Bride
+Aklını Uçuracak 5 Bilim Kurgu 🎬 Kaydet, unutma!
+1. Yıldızlararası · 2. Şey · 3. Furiosa: Bir Mad Max Destanı · 4. Değerli · 5. VOL-İ
 Tam liste ve nerede izleneceği profildeki linkte 🔗
-#film #filmönerisi #dizi #netflix #filmtavsiyesi #izlenmesigerekenfilmler #gerilim #filmarşivi #sinema #keşfet #fyp #keşfetteyiz
+#film #filmönerisi #dizi #netflix #filmtavsiyesi #izlenmesigerekenfilmler #bilimkurgu #filmarşivi #sinema #keşfet #fyp #keşfetteyiz
 
 ---
 
