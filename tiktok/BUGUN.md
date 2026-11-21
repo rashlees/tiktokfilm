@@ -1,5 +1,5 @@
-# 🎬 BUGÜNÜN VİDEOSU — 20.11.2026
-## Tema: Dram · "Yüreğine Dokunacak 5 Dram Filmi"
+# 🎬 BUGÜNÜN VİDEOSU — 21.11.2026
+## Tema: Korku · "Geceleri İzlenmez 5 Korku Filmi"
 
 ---
 
@@ -7,7 +7,7 @@
 1. `tiktok/afis/` klasöründeki 1-2-3-4-5.jpg afişlerini sırayla ekle (her biri ~3 sn)
 2. Her afişin üstüne aşağıdaki METNİ yaz (kopyala-yapıştır)
 3. Trend bir müzik seç (CapCut → Ses → Trend)
-4. Başlığı en başa 1 sn "kapak" olarak koy: **Yüreğine Dokunacak 5 Dram Filmi**
+4. Başlığı en başa 1 sn "kapak" olarak koy: **Geceleri İzlenmez 5 Korku Filmi**
 5. Videoyu indir, TikTok/Reels/Shorts'a yükle
 
 ---
@@ -15,21 +15,21 @@
 ## 🎞️ EKRAN METİNLERİ (afişlerin üstüne)
 
 **KAPAK (ilk kare):**
-Yüreğine Dokunacak 5 Dram Filmi 🍿
+Geceleri İzlenmez 5 Korku Filmi 🍿
 
 **Açılış sözü (sesli/yazılı):**
-Seni benden alacak 5 dram filmi 🥲
+Tek başına izleme dersem? 👻
 
-1️⃣ 12 Öfkeli Adam (1957) — ⭐ 8.6
-     Latin kökenli bir Amerikalı genç babasını bıçaklayarak öldürdüğü gerekçesiyle birinci d...
-2️⃣ Sekiz Buçuk (1963) — ⭐ 8.1
-     Guido Anselmi son filminin hazırlıkları ile uğraşan bir yönetmendir.
-3️⃣ Baba (2020) — ⭐ 8.1
-     Anthony 80 yaşında, biraz huysuz, ısrarla yalnız yaşamak isteyen ve kızının kendisine ö...
-4️⃣ Kırmızı Fenerin Yükselişi (1991) — ⭐ 8.0
-     Çin, 1920'ler..
-5️⃣ Fil Adam (1980) — ⭐ 8.1
-     Victoria dönemi İngilteresi'nde yaşayan John Merrick, ender görülen bir hastalık yüzünd...
+1️⃣ Zombieland (2009) — ⭐ 7.3
+     Dünya zombilerin istilası altındadır.
+2️⃣ Korku Seansı 3: Katil Şeytan (2021) — ⭐ 7.3
+     Ed ve Lorraine Warren, bu zamana kadar baktıkları dosyalardaki en sansasyonel vakalarda...
+3️⃣ Doktor Uyku (2019) — ⭐ 7.1
+     Overlook’ta yaşadığı travmayı bir türlü üzerinden atlatamayan Dan, uzun süre huzur bula...
+4️⃣ 28 Gün Sonra (2002) — ⭐ 7.2
+     İngiltere'de bir genetik araştırmalar ensitüsünde insan doğasındaki şiddet ve öfkeyle i...
+5️⃣ Kayıp Gençler (1987) — ⭐ 7.1
+     Sam ve ağabeyi Michael sıradan zevkleri olan sıradan Amerikan gençleridirler.
 
 **KAPANIŞ (son kare):**
 Hangisini izledin? 👇 Tam liste ve "nerede izlenir" bilgisi → filmarsivi
@@ -37,10 +37,10 @@ Hangisini izledin? 👇 Tam liste ve "nerede izlenir" bilgisi → filmarsivi
 ---
 
 ## ✍️ TIKTOK AÇIKLAMASI (kopyala-yapıştır)
-Yüreğine Dokunacak 5 Dram Filmi 🎬 Kaydet, unutma!
-1. 12 Öfkeli Adam · 2. Sekiz Buçuk · 3. Baba · 4. Kırmızı Fenerin Yükselişi · 5. Fil Adam
+Geceleri İzlenmez 5 Korku Filmi 🎬 Kaydet, unutma!
+1. Zombieland · 2. Korku Seansı 3: Katil Şeytan · 3. Doktor Uyku · 4. 28 Gün Sonra · 5. Kayıp Gençler
 Tam liste ve nerede izleneceği profildeki linkte 🔗
-#film #filmönerisi #dizi #netflix #filmtavsiyesi #izlenmesigerekenfilmler #dram #filmarşivi #sinema #keşfet #fyp #keşfetteyiz
+#film #filmönerisi #dizi #netflix #filmtavsiyesi #izlenmesigerekenfilmler #korku #filmarşivi #sinema #keşfet #fyp #keşfetteyiz
 
 ---
 
