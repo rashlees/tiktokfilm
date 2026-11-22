@@ -1,5 +1,5 @@
-# 🎬 BUGÜNÜN VİDEOSU — 21.11.2026
-## Tema: Korku · "Geceleri İzlenmez 5 Korku Filmi"
+# 🎬 BUGÜNÜN VİDEOSU — 22.11.2026
+## Tema: Romantik · "İçini Isıtacak 5 Romantik Film"
 
 ---
 
@@ -7,7 +7,7 @@
 1. `tiktok/afis/` klasöründeki 1-2-3-4-5.jpg afişlerini sırayla ekle (her biri ~3 sn)
 2. Her afişin üstüne aşağıdaki METNİ yaz (kopyala-yapıştır)
 3. Trend bir müzik seç (CapCut → Ses → Trend)
-4. Başlığı en başa 1 sn "kapak" olarak koy: **Geceleri İzlenmez 5 Korku Filmi**
+4. Başlığı en başa 1 sn "kapak" olarak koy: **İçini Isıtacak 5 Romantik Film**
 5. Videoyu indir, TikTok/Reels/Shorts'a yükle
 
 ---
@@ -15,21 +15,21 @@
 ## 🎞️ EKRAN METİNLERİ (afişlerin üstüne)
 
 **KAPAK (ilk kare):**
-Geceleri İzlenmez 5 Korku Filmi 🍿
+İçini Isıtacak 5 Romantik Film 🍿
 
 **Açılış sözü (sesli/yazılı):**
-Tek başına izleme dersem? 👻
+Bu 5 filmden sonra âşık olacaksın 💘
 
-1️⃣ Zombieland (2009) — ⭐ 7.3
-     Dünya zombilerin istilası altındadır.
-2️⃣ Korku Seansı 3: Katil Şeytan (2021) — ⭐ 7.3
-     Ed ve Lorraine Warren, bu zamana kadar baktıkları dosyalardaki en sansasyonel vakalarda...
-3️⃣ Doktor Uyku (2019) — ⭐ 7.1
-     Overlook’ta yaşadığı travmayı bir türlü üzerinden atlatamayan Dan, uzun süre huzur bula...
-4️⃣ 28 Gün Sonra (2002) — ⭐ 7.2
-     İngiltere'de bir genetik araştırmalar ensitüsünde insan doğasındaki şiddet ve öfkeyle i...
-5️⃣ Kayıp Gençler (1987) — ⭐ 7.1
-     Sam ve ağabeyi Michael sıradan zevkleri olan sıradan Amerikan gençleridirler.
+1️⃣ Moonrise Kingdom (2012) — ⭐ 7.7
+     1965'in yazında New England açıklarındaki bir adada geçen hikâye ilk aşk ve büyülü bir ...
+2️⃣ Tenki no Ko (2019) — ⭐ 8.0
+     Lise öğrencisi Hodaka Morişima, izole bir adada bulunan evini terk edip Tokyo'ya yerleş...
+3️⃣ Uzaktaki Anılar (2002) — ⭐ 7.7
+     İçinde bulunduğu çetenin başı belaya girince Landon Carter, bir anda kendini okul tiyat...
+4️⃣ Yasak İlişki (1995) — ⭐ 7.7
+     Yılların eskitmeyi bir türlü başaramadığı iki Hollywood efsanesi; bol ödüllü sanatçılar...
+5️⃣ Özel Bir Gün (1977) — ⭐ 8.1
+     Yıl 1938.
 
 **KAPANIŞ (son kare):**
 Hangisini izledin? 👇 Tam liste ve "nerede izlenir" bilgisi → filmarsivi
@@ -37,10 +37,10 @@ Hangisini izledin? 👇 Tam liste ve "nerede izlenir" bilgisi → filmarsivi
 ---
 
 ## ✍️ TIKTOK AÇIKLAMASI (kopyala-yapıştır)
-Geceleri İzlenmez 5 Korku Filmi 🎬 Kaydet, unutma!
-1. Zombieland · 2. Korku Seansı 3: Katil Şeytan · 3. Doktor Uyku · 4. 28 Gün Sonra · 5. Kayıp Gençler
+İçini Isıtacak 5 Romantik Film 🎬 Kaydet, unutma!
+1. Moonrise Kingdom · 2. Tenki no Ko · 3. Uzaktaki Anılar · 4. Yasak İlişki · 5. Özel Bir Gün
 Tam liste ve nerede izleneceği profildeki linkte 🔗
-#film #filmönerisi #dizi #netflix #filmtavsiyesi #izlenmesigerekenfilmler #korku #filmarşivi #sinema #keşfet #fyp #keşfetteyiz
+#film #filmönerisi #dizi #netflix #filmtavsiyesi #izlenmesigerekenfilmler #romantik #filmarşivi #sinema #keşfet #fyp #keşfetteyiz
 
 ---
 
