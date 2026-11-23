@@ -1,5 +1,5 @@
-# 🎬 BUGÜNÜN VİDEOSU — 22.11.2026
-## Tema: Romantik · "İçini Isıtacak 5 Romantik Film"
+# 🎬 BUGÜNÜN VİDEOSU — 23.11.2026
+## Tema: Aksiyon · "Nefes Kesen 5 Aksiyon Filmi"
 
 ---
 
@@ -7,7 +7,7 @@
 1. `tiktok/afis/` klasöründeki 1-2-3-4-5.jpg afişlerini sırayla ekle (her biri ~3 sn)
 2. Her afişin üstüne aşağıdaki METNİ yaz (kopyala-yapıştır)
 3. Trend bir müzik seç (CapCut → Ses → Trend)
-4. Başlığı en başa 1 sn "kapak" olarak koy: **İçini Isıtacak 5 Romantik Film**
+4. Başlığı en başa 1 sn "kapak" olarak koy: **Nefes Kesen 5 Aksiyon Filmi**
 5. Videoyu indir, TikTok/Reels/Shorts'a yükle
 
 ---
@@ -15,21 +15,21 @@
 ## 🎞️ EKRAN METİNLERİ (afişlerin üstüne)
 
 **KAPAK (ilk kare):**
-İçini Isıtacak 5 Romantik Film 🍿
+Nefes Kesen 5 Aksiyon Filmi 🍿
 
 **Açılış sözü (sesli/yazılı):**
-Bu 5 filmden sonra âşık olacaksın 💘
+Adrenalin arıyorsan bu 5 film tam sana göre 👊
 
-1️⃣ Moonrise Kingdom (2012) — ⭐ 7.7
-     1965'in yazında New England açıklarındaki bir adada geçen hikâye ilk aşk ve büyülü bir ...
-2️⃣ Tenki no Ko (2019) — ⭐ 8.0
-     Lise öğrencisi Hodaka Morişima, izole bir adada bulunan evini terk edip Tokyo'ya yerleş...
-3️⃣ Uzaktaki Anılar (2002) — ⭐ 7.7
-     İçinde bulunduğu çetenin başı belaya girince Landon Carter, bir anda kendini okul tiyat...
-4️⃣ Yasak İlişki (1995) — ⭐ 7.7
-     Yılların eskitmeyi bir türlü başaramadığı iki Hollywood efsanesi; bol ödüllü sanatçılar...
-5️⃣ Özel Bir Gün (1977) — ⭐ 8.1
-     Yıl 1938.
+1️⃣ Yüzüklerin Efendisi: Yüzük Kardeşliği (2001) — ⭐ 8.5
+     İyiyle kötü arasındaki mücadelenin epik bir anlatımı olan bu filmde, dünyanın kaderini ...
+2️⃣ Adalet Birliği : Apokolips Savaşı (2020) — ⭐ 8.2
+     Dünya’nın Darkseid’in eline geçmesinden sonra, kalan süper kahramanlar, gezegeni ve hay...
+3️⃣ Demon Slayer: Mugen Treni (2020) — ⭐ 8.2
+     Film ailesi acımasızca öldürülen Tanjiro Kamado'nun hikayesini anlatıyor.Tanjiro Kamado...
+4️⃣ Asfaltın Kralları (2019) — ⭐ 8.0
+     Ford v.
+5️⃣ Sound of Freedom (2023) — ⭐ 7.9
+     Sound of Freedom, hayatını çocukları küresel seks tacirlerinden kurtarmaya adamak için ...
 
 **KAPANIŞ (son kare):**
 Hangisini izledin? 👇 Tam liste ve "nerede izlenir" bilgisi → filmarsivi
@@ -37,10 +37,10 @@ Hangisini izledin? 👇 Tam liste ve "nerede izlenir" bilgisi → filmarsivi
 ---
 
 ## ✍️ TIKTOK AÇIKLAMASI (kopyala-yapıştır)
-İçini Isıtacak 5 Romantik Film 🎬 Kaydet, unutma!
-1. Moonrise Kingdom · 2. Tenki no Ko · 3. Uzaktaki Anılar · 4. Yasak İlişki · 5. Özel Bir Gün
+Nefes Kesen 5 Aksiyon Filmi 🎬 Kaydet, unutma!
+1. Yüzüklerin Efendisi: Yüzük Kardeşliği · 2. Adalet Birliği : Apokolips Savaşı · 3. Demon Slayer: Mugen Treni · 4. Asfaltın Kralları · 5. Sound of Freedom
 Tam liste ve nerede izleneceği profildeki linkte 🔗
-#film #filmönerisi #dizi #netflix #filmtavsiyesi #izlenmesigerekenfilmler #romantik #filmarşivi #sinema #keşfet #fyp #keşfetteyiz
+#film #filmönerisi #dizi #netflix #filmtavsiyesi #izlenmesigerekenfilmler #aksiyon #filmarşivi #sinema #keşfet #fyp #keşfetteyiz
 
 ---
 
